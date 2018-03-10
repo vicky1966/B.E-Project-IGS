@@ -1,0 +1,175 @@
+insert into company values (1,'company1','url1','desc1','no1');
+insert into company values (2,'company2','url2','desc2','no2');
+insert into company values (3,'company3','url3','desc3','no3');
+---------------------------------------------------------------------------------
+
+insert into interview values (1,'interview1','idesc1','package1',1);
+insert into interview values (2,'interview2','idesc2','package2',2);
+insert into interview values (3,'interview3','idesc3','package3',3);
+
+---------------------------------------------------------------------------------
+
+insert into sys_user values(01,'user1','mail1','phone1');
+
+--------------------------------------------------------------------------------
+
+insert into usr_login values(1,'id1','pass1');
+
+--------------------------------------------------------------------------------
+
+insert into subject values(1,'subject1');
+insert into subject values(2,'subject2');
+insert into subject values(3,'subject3');
+
+---------------------------------------------------------------------------------
+
+insert into topic values (1,'topic1',8,1);
+insert into topic values (2,'topic2',8,1);
+
+insert into topic values (3,'topic3',6,2);
+insert into topic values (4,'topic4',5,2);
+
+insert into topic values (5,'topic5',7,3);
+
+----------------------------------------------------------------------------------
+
+insert into scaling values (1, 1, 1,8);
+insert into scaling values (2, 2, 2,6);
+insert into scaling values (3, 3, 2,7);
+insert into scaling values (4, 3, 3,6);
+insert into scaling values (5, 1, 3,8);
+
+----------------------------------------------------------------------------------
+
+insert into question values (1,'queston1',1, 6, 1);
+insert into question values (2,'queston2',1, 5, 1);
+insert into question values (3,'queston3',1, 4, 1);
+insert into question values (4,'queston4',1, 7, 1);
+insert into question values (5,'queston5',1, 8, 1);
+insert into question values (6,'queston6',1, 9, 1);
+insert into question values (7,'queston7',1, 5, 1);
+insert into question values (8,'queston8',1, 4, 1);
+insert into question values (9,'queston9',1, 8, 1);
+insert into question values (10,'queston10',1, 9, 1);
+insert into question values (18,'queston18',1, 8, 1);
+insert into question values (18,'queston18',1, 8, 1);
+insert into question values (19,'queston19',1, 5, 1);
+
+insert into question values (11,'queston11',1, 4, 2);
+insert into question values (12,'queston12',1, 8, 2);
+
+insert into question values (13,'queston13',1, 5, 3);
+insert into question values (14,'queston14',1, 6, 3);
+
+insert into question values (15,'queston15',1, 6, 4);
+insert into question values (16,'queston16',1, 8, 4);
+
+insert into question values (17,'queston17',1, 4, 5);
+
+
+
+----------------------------------------------------------------------------------
+
+insert into qoption values (1,'a',1);
+insert into qoption values (2,'b',2);
+insert into qoption values (3,'c',3);
+insert into qoption values (4,'d',4);
+
+insert into qoption values (5,'e',5);
+insert into qoption values (6,'f',6);
+insert into qoption values (7,'g',7);
+insert into qoption values (8,'h',8);
+insert into qoption values (9,'i',9);
+insert into qoption values (10,'a',10);
+insert into qoption values (11,'a',11);
+insert into qoption values (12,'a',12);
+insert into qoption values (13,'a',13);
+insert into qoption values (14,'a',14);
+insert into qoption values (15,'a',15);
+insert into qoption values (16,'a',16);
+insert into qoption values (17,'a',17);
+
+
+
+
+
+
+
+drop table company cascade constraints;
+drop table interview cascade constraints;
+drop table subject cascade constraints;
+drop table scaling cascade constraints;
+drop table topic cascade constraints;
+drop table question cascade constraints;
+drop table qoption cascade constraints;
+
+
+
+
+
+
+delete from company ;
+delete from interview;
+delete from subject;
+delete from scaling;
+delete from topic ;
+delete from question;
+delete from qoption;
+
+
+
+
+<TRIGGER for qid increment>
+
+--------------------------------------------------
+
+CREATE SEQUENCE inc_id START WITH 1;
+--------------------------------------------------
+
+create or replace trigger q_id_inc
+before insert on question
+for each row
+
+begin
+  select inc_id.nextval
+  into :new.qid
+  from dual;
+end;
+
+--------------------------------------
+
+
+<TRIGGER for qoption increment>
+
+
+
+CREATE SEQUENCE op_id START WITH 20;
+
+create or replace trigger op_id_inc
+before insert on qoption
+for each row
+
+begin
+  select op_id.nextval
+  into :new.qoid
+  from dual;
+end;
+
+---------------------------------------
+---------------------------------------
+
+
+insert into correctQuestion values(1,766,456);
+insert into correctQuestion values(2,45,44);
+insert into correctQuestion values(3,123,98);
+insert into correctQuestion values(4,134,122);
+insert into correctQuestion values(5,25,10);
+insert into correctQuestion values(6,222,111);
+insert into correctQuestion values(7,6565,2343);
+insert into correctQuestion values(8,444,234);
+insert into correctQuestion values(9,111,45);
+insert into correctQuestion values(10,22,16);
+
+
+
+

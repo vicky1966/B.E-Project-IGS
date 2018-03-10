@@ -13,6 +13,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="interviewsAvailable.jsp">Interviews</a>
                 </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="forum.jsp">forum</a>
+                </li>
                 <li class="nav-item">
                     <a class="nav-link" href="logout.jsp">Logout</a>
                 </li>
