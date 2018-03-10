@@ -11,25 +11,51 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Bihari Randi Hai</title>
     </head>
     <body>
         <h1>Hello World!</h1>
          <%
              
              String q=request.getParameter("question");
-             String a=request.getParameter("Op1");
-             String b=request.getParameter("Op2");
-             String c=request.getParameter("Op3");
-             String d=request.getParameter("Op4");
+             String op1=request.getParameter("Op1");
+             String op2=request.getParameter("Op2");
+             String op3=request.getParameter("Op3");
+             String op4=request.getParameter("Op4");
+             int ca=Integer.parseInt(request.getParameter("ca"));
             
+             
+             
+             int tid=1;
+             
              String s = NaiveBayesExample.classify(q);//to get subject
-             String t = NaiveBayesExample2.classify(q);//to get topic
+             
+             if(s=="ds")
+                 tid=1;
+             else if(s=="ads")
+                 tid=2;
+             else if(s=="os")
+                 tid=3;
+             else if(s=="sql")
+                 tid=4;
+             else if(s=="asql")
+                 tid=5;
+             
+       
+             DataManager ref =  igs.DataManager.getInstance();
             
-             int x=igs.DataManager.insertQuestion(q,a,b,c,d,s);
-             if(x==1)
+             
+             
+             boolean x=ref.insertQuestion(q,ca,tid);
+             boolean y=ref.insertOption(op1,op2,op3,op4);
+             
+             if(x)
              {
-             out.print("gand me le lo in "+s +"  aur" +t);
+             out.print("gand me le lo in   aur");
+             }
+             else
+             {
+                   out.print("sab gadbad hai");
              }
              
         %>

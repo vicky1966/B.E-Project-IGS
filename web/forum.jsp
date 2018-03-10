@@ -111,6 +111,10 @@
                             <td>Op4 </td>
                             <td><input type ="text" id="Op4" name="Op4" ></td>
                         </tr>
+                          <tr>
+                            <td>Correct  Answer </td>
+                            <td><input type ="number" id="ca" name="ca" ></td>
+                        </tr>
                         <tr>
                             <td>&nbsp;</td>
                             
