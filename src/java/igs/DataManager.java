@@ -1277,4 +1277,144 @@ qoption
         }
         return true;
     }
+	
+		
+     public  boolean insertQuestion(String q ,int ca,int tid)
+     {
+         int temp=0;
+         int id=0;
+        try
+        {
+            id =  getMaxQoptionId();
+            id=ca+id;
+            
+            String stm = "insert into question (qtext,qca,qrank,tid) values (?,?,?,?)";
+            PreparedStatement pstmt = conn.prepareStatement(stm);
+            pstmt.setString(1, q);
+            pstmt.setInt(2, id);
+            pstmt.setInt(3, 5);
+            pstmt.setInt(4, tid);
+            
+            System.out.println(pstmt.toString());
+            
+            temp = pstmt.executeUpdate();
+            pstmt.close();
+            commit();
+            return temp>0;
+         
+        }
+        catch(Exception ex)
+        {
+            System.out.println("ex");
+             return false;
+        }
+     }
+    
+     
+      public  boolean insertOption(String op1,String op2,String op3,String op4)
+      {
+          int temp;
+          try
+          {
+            String stm = "insert into qoption (qoption,qid)  values (?,?)";
+            PreparedStatement pstmt1 = conn.prepareStatement(stm);
+            PreparedStatement pstmt2 = conn.prepareStatement(stm);
+            PreparedStatement pstmt3 = conn.prepareStatement(stm);
+            PreparedStatement pstmt4 = conn.prepareStatement(stm);
+            
+            int id=getMaxQid();
+            System.out.println(id);
+            pstmt1.setString(1, op1);
+            pstmt2.setString(1, op2);
+            pstmt3.setString(1, op3);
+            pstmt4.setString(1, op4);
+            
+            pstmt1.setInt(2, id);
+            pstmt2.setInt(2, id);
+            pstmt3.setInt(2, id);
+            pstmt4.setInt(2, id);
+           
+            temp =  pstmt1.executeUpdate();
+            temp =  pstmt2.executeUpdate();
+            temp =  pstmt3.executeUpdate();
+            temp =  pstmt4.executeUpdate();
+           
+            pstmt1.close();
+            pstmt2.close();
+            pstmt3.close();
+            pstmt4.close();
+                  commit();
+            return temp>0;
+              
+          }    
+          catch(Exception ex)
+          {
+             System.out.println(ex);
+             return false;
+          }    
+      
+          
+      }
+     
+      
+      public int getMaxQoptionId()
+      {
+          int id=0; 
+          try
+          {
+            String sql = "select max(qoid) from qoption ";
+            PreparedStatement pstmt = conn.prepareStatement(sql);
+            ResultSet rs = pstmt.executeQuery(); 
+            while(rs.next())
+            {
+                id=rs.getInt(1);
+            }   
+            return id;
+          }
+          catch(Exception ex)
+          {
+              System.out.println(ex);
+              return id; 
+          }
+ 
+      }        
+      
+         
+      public int getMaxQid()
+      {
+          int id=0;
+                  
+          try
+          {
+            String sql = "select max(qid) from question ";
+            PreparedStatement pstmt = conn.prepareStatement(sql);
+            ResultSet rs = pstmt.executeQuery(); 
+            while(rs.next())
+            {
+                id=rs.getInt(1);
+            }   
+            return id;
+          }
+          catch(Exception ex)
+          {
+              System.out.println(ex);
+              return id; 
+          }
+      }        
+      
+      public void commit()
+      {
+          try
+          {
+                String sql = "commit";
+                PreparedStatement pstmt = conn.prepareStatement(sql);
+                pstmt.executeQuery();
+                pstmt.close();
+        }
+          catch(Exception ex)
+          {
+              System.out.println(ex);
+          }    
+      
+      }
 }
