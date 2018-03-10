@@ -1,1 +1,1 @@
-# B.E-Project-IGS
+# IGS

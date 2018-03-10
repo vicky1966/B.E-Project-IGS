@@ -1,0 +1,2011 @@
+﻿Much better than any other Java book I’ve seen. Make that “by an order of magnitude”...
+very complete, with excellent right-to-the-point examples and intelligent, not dumbeddown,
+explanations ... In contrast to many other Java books I found it to be unusually
+mature, consistent, intellectually honest, well-written and precise. IMHO, an ideal book for
+studying Java. Anatoly Vorobey, Technion University, Haifa, Israel
+One of the absolutely best programming tutorials I’ve seen for any language. Joakim
+Ziegler, FIX sysop
+Thank you for your wonderful, wonderful book on Java. Dr. Gavin Pillay, Registrar, King
+Edward VIII Hospital, South Africa
+Thank you again for your awesome book. I was really floundering (being a non-C
+programmer), but your book has brought me up to speed as fast as I could read it. It’s really
+cool to be able to understand the underlying principles and concepts from the start, rather
+than having to try to build that conceptual model through trial and error. Hopefully I will be
+able to attend your seminar in the not-too-distant future. Randall R. Hawley, Automation
+Technician, Eli Lilly & Co.
+The best computer book writing I have seen. Tom Holland
+This is one of the best books I’ve read about a programming language… Chapter 16 on
+design patterns is one of the most interesting things I’ve read in a long time. Ilan Finci,
+graduate student and teaching assistant, Institute of Computer Science, The Hebrew
+University of Jerusalem, Israel
+The best book ever written on Java. Ravindra Pai, Oracle Corporation, SUNOS product
+line
+This is the best book on Java that I have ever found! You have done a great job. Your depth is
+amazing. I will be purchasing the book when it is published. I have been learning Java since
+October 96. I have read a few books, and consider yours a “MUST READ.” These past few
+months we have been focused on a product written entirely in Java. Your book has helped
+solidify topics I was shaky on and has expanded my knowledge base. I have even used some
+of your explanations as information in interviewing contractors to help our team. I have
+found how much Java knowledge they have by asking them about things I have learned
+from reading your book (e.g. the difference between arrays and Vectors). Your book is great!
+Steve Wilkinson, Senior Staff Specialist, MCI Telecommunications
+Great book. Best book on Java I have seen so far. Jeff Sinclair, Software Engineer, Kestral
+Computing
+Thank you for Thinking in Java. It’s time someone went beyond mere language description
+to a thoughtful, penetrating analytic tutorial that doesn’t kowtow to The Manufacturers.
+I’ve read almost all the others–only yours and Patrick Winston’s have found a place in my
+heart. I’m already recommending it to customers. Thanks again. Richard Brooks, Java
+Consultant, Sun Professional Services, Dallas
+Other books cover the WHAT of Java (describing the syntax and the libraries) or the HOW of
+Java (practical programming examples). Thinking in Java is the only book I know that
+explains the WHY of Java; why it was designed the way it was, why it works the way it
+does, why it sometimes doesn’t work, why it’s better than C++, why it’s not. Although it
+also does a good job of teaching the what and how of the language, Thinking in Java is
+definitely the thinking person’s choice in a Java book. Robert S. Stephenson
+Thanks for writing a great book. The more I read it the better I like it. My students like it,
+too. Chuck Iverson
+I just want to commend you for your work on Thinking in Java. It is people like you that
+dignify the future of the Internet and I just want to thank you for your effort. It is very
+much appreciated. Patrick Barrell, Network Officer Mamco-QAF Mfg. Inc.
+Most of the Java books out there are fine for a start, and most just have beginning stuff and
+a lot of the same examples. Yours is by far the best advanced thinking book I’ve seen. Please
+publish it soon! ... I also bought Thinking in C++ just because I was so impressed with
+Thinking in Java. George Laframboise, LightWorx Technology Consulting, Inc.
+I wrote to you earlier about my favorable impressions regarding your Thinking in C++ (a
+book that stands prominently on my shelf here at work). And today I’ve been able to delve
+into Java with your e-book in my virtual hand, and I must say (in my best Chevy Chase
+from “Modern Problems”) “I like it!” Very informative and explanatory, without reading like
+a dry textbook. You cover the most important yet the least covered concepts of Java
+development: the whys. Sean Brady
+Your examples are clear and easy to understand. You took care of many important details of
+Java that can’t be found easily in the weak Java documentation. And you don’t waste the
+reader’s time with the basic facts a programmer already knows. Kai Engert, Innovative
+Software, Germany
+I’m a great fan of your Thinking in C++ and have recommended it to associates. As I go
+through the electronic version of your Java book, I’m finding that you’ve retained the same
+high level of writing. Thank you! Peter R. Neuwald
+VERY well-written Java book ... I think you’ve done a GREAT job on it. As the leader of a
+Chicago-area Java special interest group, I’ve favorably mentioned your book and website
+several times at our recent meetings. I would like to use Thinking in Java as the basis for a
+part of each monthly SIG meeting, in which we review and discuss each chapter in
+succession. Mark Ertes
+I really appreciate your work and your book is good. I recommend it here to our users and
+Ph.D. students. Hugues Leroy // Irisa-Inria Rennes France, Head of Scientific
+Computing and Industrial Tranfert
+OK, I’ve only read about 40 pages of Thinking in Java, but I’ve already found it to be the
+most clearly-written and presented programming book I’ve come across ... and I’m a writer,
+myself, so I am probably a little critical. I have Thinking in C++ on order and can’t wait to
+crack it – I’m fairly new to programming and am hitting learning curves head-on
+everywhere. So this is just a quick note to say thanks for your excellent work. I had begun
+to burn a little low on enthusiasm from slogging through the mucky, murky prose of most
+computer books – even ones that came with glowing recommendations. I feel a whole lot
+better now. Glenn Becker, Educational Theatre Association
+Thank you for making your wonderful book available. I have found it immensely useful in
+finally understanding what I experienced as confusing in Java and C++. Reading your book
+has been very satisfying. Felix Bizaoui, Twin Oaks Industries, Louisa, Va.
+I must congratulate you on an excellent book. I decided to have a look at Thinking in Java
+based on my experience with Thinking in C++, and I was not disappointed. Jaco van der
+Merwe, Software Specialist, DataFusion Systems Ltd, Stellenbosch, South Africa
+This has to be one of the best Java books I’ve seen. E.F. Pritchard, Senior Software
+Engineer, Cambridge Animation Systems Ltd., United Kingdom
+Your book makes all the other Java books I’ve read or flipped through seem doubly useless
+and insulting. Brett g Porter, Senior Programmer, Art & Logic
+I have been reading your book for a week or two and compared to the books I have read
+earlier on Java, your book seems to have given me a great start. I have recommended this
+book to lot of my friends and they have rated it excellent. Please accept my congratulations
+for coming out with an excellent book. Rama Krishna Bhupathi, Software Engineer, TCSI
+Corporation, San Jose
+Just wanted to say what a “brilliant” piece of work your book is. I’ve been using it as a
+major reference for in-house Java work. I find that the table of contents is just right for
+quickly locating the section that is required. It’s also nice to see a book that is not just a
+rehash of the API nor treats the programmer like a dummy. Grant Sayer, Java
+Components Group Leader, Ceedata Systems Pty Ltd, Australia
+Wow! A readable, in-depth Java book. There are a lot of poor (and admittedly a couple of
+good) Java books out there, but from what I’ve seen yours is definitely one of the best. John
+Root, Web Developer, Department of Social Security, London
+I’ve *just* started Thinking in Java. I expect it to be very good because I really liked Thinking
+in C++ (which I read as an experienced C++ programmer, trying to stay ahead of the
+curve). I’m somewhat less experienced in Java, but expect to be very satisfied. You are a
+wonderful author. Kevin K. Lewis, Technologist, ObjectSpace, Inc.
+I think it’s a great book. I learned all I know about Java from this book. Thank you for
+making it available for free over the Internet. If you wouldn’t have I’d know nothing about
+Java at all. But the best thing is that your book isn’t a commercial brochure for Java. It also
+shows the bad sides of Java. YOU have done a great job here. Frederik Fix, Belgium
+I have been hooked to your books all the time. A couple of years ago, when I wanted to start
+with C++, it was C++ Inside & Out which took me around the fascinating world of C++. It
+helped me in getting better opportunities in life. Now, in pursuit of more knowledge and
+when I wanted to learn Java, I bumped into Thinking in Java – No doubts in my mind as to
+whether I need some other book. Just fantastic. It is more like rediscovering myself as I get
+along with the book. It is just a month since I started with Java, and heartfelt thanks to you,
+I am understanding it better now. Anand Kumar S. - Software Engineer –
+Computervision, India
+Your book stands out as an excellent general introduction. Peter Robinson, University of
+Cambridge Computer Laboratory
+It’s by far the best material I have come across to help me learn Java and I just want you to
+know how lucky I feel to have found it. THANKS! Chuck Peterson, Product Leader,
+Internet Product Line, IVIS International
+The book is great. It’s the third book on Java I’ve started and I’m about two-thirds of the
+way through it now. I plan to finish this one. I found out about it because it is used in some
+internal classes at Lucent Technologies and a friend told me the book was on the Net. Good
+work. Jerry Nowlin, MTS, Lucent Technologies
+Of the six or so Java books I’ve accumulated to date, your Thinking in Java is by far the best
+and clearest. Michael Van Waas, Ph.D., President, TMR Associates
+I just want to say thanks for Thinking in Java. What a wonderful book you’ve made here!
+Not to mention downloadable for free! As a student I find your books invaluable (I have a
+copy of C++ Inside Out, another great book about C++), because they not only teach me the
+how-to, but also the whys, which are of course very important in building a strong
+foundation in languages such as C++ or Java. I have quite a lot of friends here who love
+programming just as I do, and I’ve told them about your books. They think it’s great!
+Thanks again! By the way, I’m Indonesian and I live in Java. Ray Frederick Djajadinata,
+Student at Trisakti University, Jakarta
+The mere fact that you have made this work free over the Net puts me into shock. I thought
+I’d let you know how much I appreciate and respect what you’re doing. Shane
+LeBouthillier, Computer Engineering student, University of Alberta, Canada
+I have to tell you how much I look forward to reading your monthly column. As a newbie
+to the world of object oriented programming, I appreciate the time and thoughtfulness that
+you give to even the most elementary topic. I have downloaded your book, but you can bet
+that I will purchase the hard copy when it is published. Thanks for all of your help. Dan
+Cashmer, B. C. Ziegler & Co.
+Just want to congratulate you on a job well done. First I stumbled upon the PDF version of
+Thinking in Java. Even before I finished reading it, I ran to the store and found Thinking in
+C++. Now, I have been in the computer business for over eight years, as a consultant,
+software engineer, teacher/trainer, and recently as self-employed, so I’d like to think that I
+have seen enough (not “have seen it all,” mind you, but enough). However, these books
+cause my girlfriend to call me a ”geek.” Not that I have anything against the concept - it is
+just that I thought this phase was well beyond me. But I find myself truly enjoying both
+books, like no other computer book I have touched or bought so far. Excellent writing style,
+very nice introduction of every new topic, and lots of wisdom in the books. Well done.
+Simon Goland, simonsez@smartt.com, Simon Says Consulting, Inc.
+I must say that your Thinking in Java is great! That is exactly the kind of documentation I
+was looking for. Especially the sections about good and poor software design using Java 1.1.
+Dirk Duehr, Lexikon Verlag, Bertelsmann AG, Germany
+Thank you for writing two great books (Thinking in C++, Thinking in Java). You have helped
+me immensely in my progression to object oriented programming. Donald Lawson, DCL
+Enterprises
+Thank you for taking the time to write a really helpful book on Java. If teaching makes you
+understand something, by now you must be pretty pleased with yourself. Dominic Turner,
+GEAC Support
+It’s the best Java book I have ever read - and I read some. Jean-Yves MENGANT, Chief
+Software Architect NAT-SYSTEM, Paris, France
+Thinking in Java gives the best coverage and explanation. Very easy to read, and I mean the
+code fragments as well. Ron Chan, Ph.D., Expert Choice, Inc., Pittsburgh PA
+Your book is great. I have read lots of programming books and your book still adds insights
+to programming in my mind. Ningjian Wang, Information System Engineer, The
+Vanguard Group
+Thinking in Java is an excellent and readable book. I recommend it to all my students. Dr.
+Paul Gorman, Department of Computer Science, University of Otago, Dunedin, New
+Zealand
+You make it possible for the proverbial free lunch to exist, not just a soup kitchen type of
+lunch but a gourmet delight for those who appreciate good software and books about it.
+Jose Suriol, Scylax Corporation
+Thanks for the opportunity of watching this book grow into a masterpiece! IT IS THE BEST
+book on the subject that I’ve read or browsed. Jeff Lapchinsky, Programmer, Net Results
+Technologies
+Your book is concise, accessible and a joy to read. Keith Ritchie, Java Research &
+Development Team, KL Group Inc.
+It truly is the best book I’ve read on Java! Daniel Eng
+The best book I have seen on Java! Rich Hoffarth, Senior Architect, West Group
+Thank you for a wonderful book. I’m having a lot of fun going through the chapters. Fred
+Trimble, Actium Corporation
+You have mastered the art of slowly and successfully making us grasp the details. You make
+learning VERY easy and satisfying. Thank you for a truly wonderful tutorial. Rajesh Rau,
+Software Consultant
+Thinking in Java rocks the free world! Miko O’Sullivan, President, Idocs Inc.
+About Thinking in C++:
+Best Book! Winner of the
+1995 Software Development Magazine Jolt Award!
+“This book is a tremendous achievement. You owe it to yourself to have a copy
+on your shelf. The chapter on iostreams is the most comprehensive and
+understandable treatment of that subject I’ve seen to date.”
+Al Stevens
+Contributing Editor, Doctor Dobbs Journal
+“Eckel’s book is the only one to so clearly explain how to rethink program
+construction for object orientation. That the book is also an excellent tutorial on
+the ins and outs of C++ is an added bonus.”
+Andrew Binstock
+Editor, Unix Review
+“Bruce continues to amaze me with his insight into C++, and Thinking in C++
+is his best collection of ideas yet. If you want clear answers to difficult questions
+about C++, buy this outstanding book.”
+Gary Entsminger
+Author, The Tao of Objects
+“Thinking in C++ patiently and methodically explores the issues of when and
+how to use inlines, references, operator overloading, inheritance, and dynamic
+objects, as well as advanced topics such as the proper use of templates,
+exceptions and multiple inheritance. The entire effort is woven in a fabric that
+includes Eckel’s own philosophy of object and program design. A must for every
+C++ developer’s bookshelf, Thinking in C++ is the one C++ book you must
+have if you’re doing serious development with C++.”
+Richard Hale Shaw
+Contributing Editor, PC Magazine
+Thinking
+in Java
+Bruce Eckel
+President, MindView Inc.
+Prentice Hall PTR
+Upper Saddle River, New Jersey 07458
+http://www.phptr.com
+Library of Congress Cataloging-in-Publication Data
+Eckel, Bruce.
+Thinking in Java / Bruce Eckel.
+p. cm.
+Includes index.
+ISBN 0-13-659723-8
+1. Java (Computer program language) I. Title.
+QA76.73.J38E25 1998
+005.13'3--dc21 97-52713
+CIP
+Editorial/Production Supervision: Craig Little
+Acquisitions Editor: Jeffrey Pepper
+Manufacturing Manager: Alexis R. Heydt
+Marketing Manager: Miles Williams
+Cover Design Director: Jerry Votta
+Cover Design: Daniel Will-Harris
+Interior Design: Daniel Will-Harris, www.will-harris.com
+© 1998 by Prentice Hall PTR
+Prentice-Hall Inc.
+A Simon & Schuster Company
+Upper Saddle River, NJ 07458
+The information in this book is distributed on an “as is” basis, without warranty. While every precaution has been taken in the preparation of
+this book, neither the author nor the publisher shall have any liability to any person or entitle with respect to any liability, loss or damage
+caused or alleged to be caused directly or indirectly by instructions contained in this book or by the computer software or hardware products
+described herein.
+All rights reserved. No part of this book may be
+reproduced, in any form or by any means, without
+permission in writing from the publisher.
+Prentice Hall books are widely used by corporations and government agencies for training, marketing, and resale. The publisher offers discounts
+on this book when ordered in bulk quantities. For more information, contact the Corporate Sales Department at 800-382-3419, fax: 201-236-
+7141, email: corpsales@prenhall.com or write: Corporate Sales Department, Prentice Hall PTR, One Lake Street, Upper Saddle River, New Jersey
+07458.
+Java is a registered trademark of Sun Microsystems, Inc. Windows 95 and Windows NT are trademarks of Microsoft Corporation. All other
+product names and company names mentioned herein are the property of their respective owners.
+Printed in the United States of America
+10 9 8 7 6 5 4 3 2 1
+ISBN 0-13-659723-8
+Prentice-Hall International (UK) Limited, London
+Prentice-Hall of Australia Pty. Limited, Sydney
+Prentice-Hall Canada Inc., Toronto
+Prentice-Hall Hispanoamericana, S.A., Mexico
+Prentice-Hall of India Private Limited, New Delhi
+Prentice-Hall of Japan, Inc., Tokyo
+Simon & Schuster Asia Pte. Ltd., Singapore
+Editora Prentice-Hall do Brasil, Ltda., Rio de Janeiro
+Check www.BruceEckel.com for
+in-depth details and
+the date and location of the next
+Hands-On Java Seminar
+ Based on this book
+ Taught by Bruce Eckel
+ Personal attention from Bruce Eckel
+and his seminar assistants
+ Includes in-class programming exercises
+ Intermediate/Advanced seminars also offered
+ Hundreds have already enjoyed this seminar –
+see the Web site for their testimonials
+Bruce Eckel’s Hands-On Java Seminar Multimedia CD
+It’s like coming to the seminar!
+Available at http://www.BruceEckel.com
+ Overhead slides and synchronized audio for all the
+lectures. Just play it to see and hear the lectures!
+ Entire set of lectures are indexed so you can rapidly
+locate the discussion of the subject you’re interested in.
+ Special screen-formatted electronic version of Thinking
+in Java with hyperlinked index and table of contents.
+Dedication
+To the person who, even now,
+is creating the next great computer language
+Overview
+Foreword 23
+Introduction 27
+1: Introduction to objects 41
+2: Everything is an object 71
+3: Controlling program flow 93
+4: Initialization and cleanup 133
+5: Hiding the implementation 165
+6: Reusing classes 185
+7: Polymorphism 211
+8: Holding your objects 267
+9: Error handling with exceptions 329
+10: The Java IO system 357
+11: Run-time type identification 415
+12: Passing and returning objects 435
+13: Creating windows and applets 471
+14: Multiple threads 599
+15: Network programming 655
+16: Design patterns 717
+17: Projects 755
+A: Using non-Java code 787
+B: Comparing C++ and Java 817
+C: Java programming guidelines 825
+D: Performance 829
+E: A bit about garbage collection 837
+F: Recommended reading 841
+Index 843
+@
+What’s Inside
+Foreword 23
+Introduction 27
+Prerequisites .......................27
+Learning Java .....................28
+Goals ..................................28
+Online documentation ........29
+Chapters .............................29
+Exercises .............................34
+Multimedia CD ROM...........34
+Source code.........................34
+Coding standards ..................... 36
+Java versions ......................36
+Seminars and mentoring.....37
+Errors .................................37
+Note on the cover design.....37
+Acknowledgements .............38
+1: Introduction
+to objects 41
+The progress
+of abstraction .....................42
+An object has an interface ...43
+The hidden
+implementation ..................44
+Reusing
+the implementation.............45
+Inheritance:
+reusing the interface ...........46
+Overriding base-class functionality47
+Is-a vs. is-like-a relationships... 47
+Interchangeable objects
+with polymorphism ........... 48
+Dynamic binding ..................... 49
+Abstract base classes
+and interfaces .......................... 50
+Object landscapes
+and lifetimes ...................... 50
+Collections and iterators .......... 51
+The singly-rooted hierarchy..... 52
+Collection libraries and support for easy
+collection use ........................... 53
+The housekeeping dilemma:
+who should clean up? .............. 54
+Exception handling:
+dealing with errors............. 55
+Multithreading................... 56
+Persistence.......................... 57
+Java and the Internet ......... 57
+What is the Web?..................... 57
+Client-side programming ......... 59
+Server-side programming ........ 63
+A separate arena: applications.. 64
+Analysis and Design ........... 64
+Staying on course .................... 64
+Phase 0: Let’s make a plan ....... 65
+Phase 1:
+What are we making?.............. 65
+Phase 2:
+How will we build it?............... 66
+Phase 3: Let’s build it! .............. 67
+Phase 4: Iteration..................... 67
+Plans pay off............................ 68
+Java vs. C++? ....................69
+2: Everything is
+an object 71
+You manipulate objects
+with handles .......................72
+You must create
+all the objects......................72
+Where storage lives.................. 73
+Special case: primitive types..... 73
+Arrays in Java ......................... 75
+You never need to
+destroy an object.................75
+Scoping.................................... 75
+Scope of objects........................ 76
+Creating new
+data types: class..................77
+Fields and methods .................. 77
+Methods, arguments
+and return values ...............78
+The argument list .................... 79
+Building a Java program.....80
+Name visibility......................... 80
+Using other components .......... 81
+The static keyword.................. 81
+Your first Java program......83
+Comments and embedded
+documentation....................85
+Comment documentation ........ 86
+Syntax ..................................... 86
+Embedded HTML...................... 87
+@see: referring
+to other classes ........................ 87
+Class documentation tags ........ 88
+Variable documentation tags ... 88
+Method documentation tags .... 88
+Documentation example .......... 89
+Coding style........................90
+Summary ...........................90
+Exercises .............................90
+3: Controlling
+program flow 93
+Using Java operators ..........93
+Precedence................................ 94
+Assignment.............................. 94
+Mathematical operators ........... 96
+Auto increment
+and decrement ......................... 98
+Relational operators ................. 99
+Logical operators ................... 100
+Bitwise operators ................... 103
+Shift operators ....................... 103
+Ternary if-else operator ......... 106
+The comma operator.............. 107
+String operator +.................. 107
+Common pitfalls when
+using operators...................... 108
+Casting operators................... 108
+Java has no “sizeof”............... 111
+Precedence revisited................ 111
+A compendium of operators... 111
+Execution control ............. 120
+true and false......................... 120
+if-else ..................................... 120
+Iteration................................. 121
+do-while ................................ 122
+for ......................................... 122
+break and continue ................ 123
+switch.................................... 129
+Summary......................... 132
+Exercises........................... 132
+4: Initialization
+and cleanup 133
+Guaranteed initialization
+with the constructor ........ 133
+Method overloading ......... 135
+Distinguishing
+overloaded methods ............... 137
+Overloading with primitives .. 138
+Overloading on
+return values ......................... 141
+Default constructors .............. 141
+The this keyword .................. 142
+Cleanup: finalization
+and garbage collection...... 145
+What is finalize( ) for? .......... 146
+You must perform cleanup .... 146
+Member initialization ....... 149
+Specifying initialization ......... 151
+Constructor initialization....... 152
+Array initialization........... 157
+Multidimensional arrays........ 161
+Summary......................... 164
+Exercises........................... 164
+5: Hiding the
+implementation 165
+package:
+the library unit ................ 166
+Creating unique
+package names....................... 168
+A custom tool library............. 170
+Using imports to
+change behavior..................... 172
+Package caveat....................... 174
+Java access specifiers.........174
+“Friendly” .............................. 175
+public: interface access .......... 175
+private: you can’t
+touch that!............................. 177
+protected:
+“sort of friendly”.................... 178
+Interface and
+implementation ................179
+Class access.......................180
+Summary .........................182
+Exercises ...........................183
+6: Reusing classes 185
+Composition syntax..........185
+Inheritance syntax ............188
+Initializing the base class........ 190
+Combining composition
+and inheritance .................192
+Guaranteeing
+proper cleanup....................... 193
+Name hiding .......................... 196
+Choosing composition
+vs. inheritance ..................197
+protected .........................198
+Incremental
+development .....................199
+Upcasting .........................199
+Why “upcasting”?.................. 200
+The final keyword............201
+Final data............................... 201
+Final methods ........................ 204
+Final classes ........................... 205
+Final caution.......................... 206
+Initialization and
+class loading .....................206
+Initialization
+with inheritance..................... 207
+Summary .........................208
+Exercises ...........................209
+7: Polymorphism 211
+Upcasting .........................211
+Why upcast?.......................... 212
+The twist ..........................214
+Method call binding ............... 214
+Producing the
+right behavior........................ 215
+Extensibility........................... 217
+Overriding vs.
+overloading.......................220
+Abstract classes
+and methods .................... 221
+Interfaces ......................... 224
+“Multiple inheritance”
+in Java................................... 227
+Extending an interface
+with inheritance..................... 229
+Grouping constants ............... 230
+Initializing fields
+in interfaces ........................... 231
+Inner classes ..................... 232
+Inner classes and upcasting.... 234
+Inner classes in
+methods and scopes ............... 235
+The link to the outer class...... 240
+static inner classes................. 242
+Referring to the
+outer class object ................... 243
+Inheriting from
+inner classes........................... 244
+Can inner classes
+be overridden?........................ 245
+Inner class identifiers ............. 247
+Why inner classes:
+control frameworks ............... 247
+Constructors and polymorphism
+........................................ 253
+Order of constructor calls ...... 253
+Inheritance and finalize( ) ..... 255
+Behavior of polymorphic
+methods inside constructors... 258
+Designing with
+inheritance ....................... 260
+Pure inheritance
+vs. extension .......................... 261
+Downcasting and run-time
+type identification.................. 263
+Summary......................... 265
+Exercises........................... 265
+8: Holding
+your objects 267
+Arrays.............................. 267
+Arrays are first-class objects .. 268
+Returning an array ................ 271
+Collections........................ 273
+Disadvantage:
+unknown type ....................... 273
+Enumerators (iterators).... 277
+Types of collections........... 280
+Vector ................................... 280
+BitSet .................................... 281
+Stack..................................... 283
+Hashtable ............................. 284
+Enumerators revisited ............ 290
+Sorting..............................291
+The generic
+collection library...............295
+The new collections...........295
+Using Collections .................. 299
+Using Lists............................. 302
+Using Sets ............................. 305
+Using Maps ........................... 308
+Choosing an
+implementation ..................... 310
+Unsupported operations ........ 317
+Sorting and searching ............ 319
+Utilities .................................. 323
+Summary .........................326
+Exercises ...........................327
+9: Error handling
+with exceptions 329
+Basic exceptions ................330
+Exception arguments ............. 331
+Catching an exception .......331
+The try block ......................... 332
+Exception handlers................. 332
+The exception specification..... 333
+Catching any exception.......... 334
+Rethrowing an exception ....... 335
+Standard Java
+exceptions .........................338
+The special case of RuntimeException
+.............................................. 338
+Creating your
+own exceptions .................340
+Exception restrictions........343
+Performing cleanup
+with finally.......................345
+What’s finally for? ................ 347
+Pitfall: the lost exception........ 349
+Constructors.....................350
+Exception matching ..........353
+Exception guidelines............... 354
+Summary .........................354
+Exercises ...........................355
+10: The Java
+IO system 357
+Input and output ..............358
+Types of InputStream........... 358
+Types of OutputStream ........ 359
+Adding attributes
+and useful interfaces.........360
+Reading from an InputStream with
+FilterInputStream................ 361
+Writing to an OutputStream with
+FilterOutputStream ............. 362
+Off by itself: RandomAccessFile363
+The File class.................... 364
+A directory lister .................... 364
+Checking for and
+creating directories................. 368
+Typical uses
+of IO streams ................... 370
+Input streams ........................ 373
+Output streams...................... 374
+Shorthand for
+file manipulation ................... 375
+Reading from
+standard input ....................... 377
+Piped streams......................... 378
+StreamTokenizer............. 378
+StringTokenizer ................... 381
+Java 1.1 IO streams.......... 383
+Sources and sinks of data....... 383
+Modifying stream behavior.... 384
+Unchanged Classes................. 385
+An example............................ 385
+Redirecting standard IO.......... 389
+Compression .................... 390
+Simple compression
+with GZIP .............................. 390
+Multi-file storage with Zip..... 391
+The Java archive (jar) utility .. 393
+Object serialization ........... 395
+Finding the class .................... 398
+Controlling serialization......... 399
+Using persistence ................... 407
+Summary......................... 413
+Exercises........................... 414
+11: Run-time type
+identification 415
+The need for RTTI............. 415
+The Class object ..................... 418
+Checking before a cast............ 420
+RTTI syntax...................... 425
+Reflection: run-time
+class information ............. 427
+A class method extractor........ 428
+Summary......................... 432
+Exercises........................... 433
+12: Passing and
+returning objects 435
+Passing handles around .... 436
+Aliasing.................................. 436
+Making local copies...........438
+Pass by value ......................... 438
+Cloning objects....................... 439
+Adding cloneability
+to a class................................ 440
+Successful cloning.................. 442
+The effect of Object.clone( ) .. 443
+Cloning a composed object ..... 445
+A deep copy with Vector ....... 447
+Deep copy via serialization..... 448
+Adding cloneability
+further down a hierarchy ...... 450
+Why this strange design?....... 451
+Controlling cloneability ....452
+The copy-constructor............. 456
+Read-only classes ..............459
+Creating read-only classes...... 460
+The drawback
+to immutability ..................... 461
+Immutable Strings ................ 463
+The String and
+StringBuffer classes .............. 465
+Strings are special ................. 468
+Summary .........................468
+Exercises ...........................469
+13: Creating windows
+and applets 471
+Why use the AWT? ...........472
+The basic applet ................473
+Testing applets....................... 475
+A more graphical example ..... 476
+Demonstrating
+the framework methods......... 476
+Making a button...............477
+Capturing an event ...........478
+Text fields..........................480
+Text areas..........................481
+Labels ...............................482
+Check boxes ......................484
+Radio buttons ...................485
+Drop-down lists................486
+List boxes ..........................487
+handleEvent( )...................... 488
+Controlling layout ............490
+FlowLayout .......................... 491
+BorderLayout....................... 491
+GridLayout ........................... 492
+CardLayout .......................... 492
+GridBagLayout..................... 494
+Alternatives to action.......495
+Applet restrictions.............499
+Applet advantages.................. 500
+Windowed applications .... 501
+Menus.................................... 501
+Dialog boxes .......................... 504
+The new AWT .................. 509
+The new event model ............. 510
+Event and listener types ......... 512
+Making windows and applets with the Java
+1.1 AWT ................................ 516
+Revisiting the
+earlier examples ..................... 519
+Binding events dynamically ... 535
+Separating business logic
+from UI logic ......................... 536
+Recommended
+coding approaches ................. 538
+Java 1.1 UI APIs............... 552
+Desktop colors ....................... 553
+Printing ................................. 553
+The clipboard ......................... 559
+Visual programming
+and Beans......................... 561
+What is a Bean? ..................... 562
+Extracting BeanInfo with
+the Introspector.................... 564
+A more sophisticated Bean ..... 569
+Packaging a Bean ................... 572
+More complex Bean support .. 573
+More to Beans........................ 574
+Introduction to Swing ...... 574
+Benefits of Swing ................... 575
+Easy conversion ..................... 575
+A display framework ............. 576
+Tool tips ................................ 577
+Borders .................................. 577
+Buttons.................................. 578
+Button groups ....................... 580
+Icons ...................................... 581
+Menus.................................... 583
+Popup menus......................... 587
+List boxes and combo boxes ... 588
+Sliders and progress bars........ 588
+Trees...................................... 589
+Tables .................................... 591
+Tabbed Panes ......................... 593
+The Swing message box ......... 595
+More to Swing ....................... 595
+Summary......................... 596
+Exercises........................... 596
+14: Multiple threads 599
+Responsive
+user interfaces.................. 600
+Inheriting from Thread ......... 602
+Threading for a
+responsive interface ............... 603
+Combining the thread
+with the main class................ 607
+Making many threads............ 609
+Daemon threads..................... 612
+Sharing
+limited resources...............613
+Improperly accessing
+resources................................ 613
+How Java shares resources .... 617
+Java Beans revisited ............... 621
+Blocking............................625
+Becoming blocked .................. 626
+Deadlock................................ 634
+Priorities ...........................638
+Thread groups ....................... 642
+Runnable revisited ...........648
+Too many threads.................. 650
+Summary .........................653
+Exercises ...........................654
+15: Network
+programming 655
+Identifying a machine .......656
+Servers and clients ................. 657
+Port: a unique place
+within the machine................ 658
+Sockets..............................658
+A simple server and client ...... 659
+Serving multiple clients.....664
+Datagrams........................668
+A Web application .............673
+The server application............ 674
+The NameSender applet........ 679
+Problems with
+this approach......................... 683
+Connecting Java to CGI.....684
+Encoding data for CGI............ 684
+The applet.............................. 686
+The CGI program in C++ ...... 690
+What about POST?................. 698
+Connecting to
+databases with JDBC ........701
+Getting the example to work.. 704
+A GUI version of
+the lookup program............... 706
+Why the JDBC API
+seems so complex................... 709
+Remote methods ...............709
+Remote interfaces................... 709
+Implementing the
+remote interface..................... 710
+Creating stubs and skeletons.. 713
+Using the remote object ......... 713
+Alternatives to RMI................ 714
+Summary......................... 714
+Exercises........................... 715
+16: Design patterns 717
+The pattern concept.......... 717
+The singleton ......................... 718
+Classifying patterns ............... 719
+The observer pattern ........ 720
+Simulating the
+trash recycler ................... 723
+Improving the design ....... 726
+“Make more objects”.............. 726
+A pattern for
+prototyping creation.............. 728
+Abstracting usage............. 736
+Multiple dispatching......... 739
+Implementing the
+double dispatch...................... 739
+The “visitor” pattern ........ 745
+RTTI considered
+harmful?.......................... 751
+Summary......................... 753
+Exercises........................... 754
+17: Projects 755
+Text processing ................. 755
+Extracting code listings .......... 755
+Checking
+capitalization style................. 768
+A method lookup tool ...... 775
+Complexity theory ........... 779
+Summary......................... 785
+Exercises........................... 785
+A: Using
+non-Java code 787
+The Java
+Native Interface................ 788
+Calling a native method ......... 788
+Accessing JNI functions:
+The JNIEnv argument ........... 791
+Passing and using
+Java objects ........................... 792
+JNI and Java exceptions......... 793
+JNI and threading .................. 794
+Using a pre-existing
+code base................................ 794
+The Microsoft way ........... 794
+J/Direct............................ 795
+The @dll.import directive ..... 796
+The com.ms.win32
+package.................................. 797
+Marshaling ............................ 798
+Writing callback functions..... 799
+Other J/Direct features .......... 800
+Raw Native
+Interface (RNI) ..................800
+RNI Summary........................ 802
+Java/COM integration ......802
+COM Fundamentals ............... 803
+MS Java/COM Integration ..... 805
+Developing COM
+servers in Java ....................... 806
+Developing COM
+clients in Java ........................ 807
+ActiveX/Beans integration ..... 808
+A note about native
+methods and applets .............. 809
+CORBA..............................809
+CORBA Fundamentals ............ 809
+An example............................ 811
+Java Applets and CORBA........ 815
+CORBA vs. RMI ...................... 815
+Summary .........................815
+B: Comparing C++
+and Java 817
+C: Java programming
+guidelines 825
+D: Performance 829
+Basic approach..................829
+Locating the bottleneck .... 830
+1. Install your own instrumentation
+.............................................. 830
+2. JDK profiling [2] ................ 830
+3. Special tools ....................... 830
+Tips for measuring
+performance .......................... 831
+Speedup techniques .......... 831
+Generic approaches ................ 831
+Language dependent
+approaches............................. 831
+Specific situations .................. 832
+References ........................ 834
+Performance tools .................. 834
+Web sites ............................... 834
+Articles .................................. 834
+Java specific books................. 835
+General books ........................ 835
+E: A bit about
+garbage collection 837
+F: Recommended
+reading 841
+Index 843
+23
+d
+Foreword
+I suggested to my brother Todd, who is making the leap from hardware
+into programming, that the next big revolution will be in genetic
+engineering.
+We’ll have microbes designed to make food, fuel and plastic; they’ll clean up pollution and in
+general allow us to master the manipulation of the physical world for a fraction of what it
+costs now. I claimed that it would make the computer revolution look small in comparison.
+Then I realized I was making a mistake common to science fiction writers: getting lost in the
+technology (which is of course easy to do in science fiction). An experienced writer knows
+that the story is never about the things; it’s about the people. Genetics will have a very large
+impact on our lives, but I’m not so sure it will dwarf the computer revolution – or at least
+the information revolution. Information is about talking to each other: yes, cars and shoes
+and especially genetic cures are important, but in the end those are just trappings. What
+truly matters is how we relate to the world. And so much of that is about communication.
+This book is a case in point. A majority of folks thought I was very bold or a little crazy to
+put the entire thing up on the Web. “Why would anyone buy it?” they asked. If I had been of
+a more conservative nature I wouldn’t have done it, but I really didn’t want to write another
+computer book in the same old way. I didn’t know what would happen but it turned out to
+be the smartest thing I’ve ever done with a book.
+For one thing, people started sending in corrections. This has been an amazing process,
+because folks have looked into every nook and cranny and caught both technical and
+grammatical errors, and I’ve been able to eliminate bugs of all sorts that I know would have
+otherwise slipped through. People have been simply terrific about this, very often saying
+“Now, I don’t mean this in a critical way” and then giving me a collection of errors I’m sure I
+never would have found. I feel like this has been a kind of group process and it has really
+made the book into something special.
+24 Thinking in Java www.BruceEckel.com
+But then I started hearing “OK, fine, it’s nice you’ve put up an electronic version, but I want
+a printed and bound copy from a real publisher.” I tried very hard to make it easy for
+everyone to print it out in a nice looking format but it didn’t stem the demand for the
+published book. Most people don’t want to read the entire book on screen, and hauling
+around a sheaf of papers, no matter how nicely printed, didn’t appeal to them either (plus I
+think it’s not so cheap in terms of laser printer toner). It seems that the computer revolution
+won’t put publishers out of business, after all. However, one student suggested this may
+become a model for future publishing: books will be published on the Web first, and only if
+sufficient interest warrants it will the book be put on paper. Currently, the great majority of
+books of all kinds are financial failures, and perhaps this new approach could make the
+publishing industry more profitable.
+This book became an enlightening experience for me in another way. I originally approached
+Java as “just another programming language,” which in many senses it is. But as time
+passed and I studied it more deeply, I began to see that the fundamental intention of the
+language is different than in all the other languages I have seen.
+Programming is about managing complexity: the complexity of the problem you want to
+solve laid upon the complexity of the machine in which it is solved. Because of this
+complexity, most of our programming projects fail. And yet of all the programming
+languages that I am aware, none of them have gone all out and decided that their main
+design goal would be to conquer the complexity of developing and maintaining programs. Of
+course, many language design decisions were made with complexity in mind, but at some
+point there were always some other issues that were considered essential to be added into the
+mix. Inevitably, those other issues are what causes programmers to eventually “hit the wall”
+with that language. For example, C++ had to be backwards-compatible with C (to allow
+easy migration for C programmers), as well as efficient. Those are both very useful goals
+and account for much of the success of C++, but they also expose extra complexity that
+prevents some projects from being finished (certainly, you can blame programmers and
+management, but if a language can help by catching your mistakes, why shouldn’t it?). As
+another example, Visual Basic (VB) was tied to BASIC, which wasn’t really designed to be an
+extensible language, so all the extensions piled upon VB have produced some truly horrible
+and un-maintainable syntax. On the other hand, C++, VB and other languages like
+Smalltalk had some of their design efforts focused on the issue of complexity and as a result
+are remarkably successful in solving certain types of problems.
+What has impressed me most as I have come to understand Java is what seems like an
+unflinching goal of reducing complexity for the programmer. As if to say “we don’t care
+about anything except reducing the time and difficulty of producing robust code.” In the
+early days, this goal has resulted in code that doesn’t run very fast (although there have
+been many promises made about how quickly Java will someday run) but it has indeed
+produced amazing reductions in development time; half or less of the time that it takes to
+create an equivalent C++ program. This result alone can save incredible amounts of time
+and money, but Java doesn’t stop there. It goes on to wrap all the complex tasks that have
+become important, such as multithreading and network programming, in language features
+or libraries that can at times make those tasks trivial. And finally, it tackles some really big
+complexity problems: cross-platform programs, dynamic code changes, and even security,
+each of which can fit on your complexity spectrum anywhere from “impediment” to “showstopper.”
+So despite the performance problems we’ve seen, the promise of Java is
+tremendous: it can make us significantly more productive programmers.
+One of the places I see the greatest impact for this is on the Web. Network programming has
+always been hard, and Java makes it easy (and they’re working on making it easier all the
+time). Network programming is how we talk to each other more effectively and cheaply
+Foreword 25
+than we ever have with telephones (email alone has revolutionized many businesses). As we
+talk to each other more, amazing things begin to happen, possibly more amazing even than
+the promise of genetic engineering.
+In all ways: creating the programs, working in teams to create the programs, building user
+interfaces so the programs can communicate with the user, running the programs on
+different types of machines, and easily writing programs that communicate across the
+Internet – Java increases the communication bandwidth between people. And I think that
+perhaps the results of the communication revolution will not be seen from the effects of
+moving large quantities of bits around. We shall see the true revolution because we will all
+be able to talk to each other more easily – one-on-one, but also in groups and as a planet.
+I've heard it suggested that the next revolution is the formation of a kind of global mind
+which results from enough people and enough interconnectedness. Java may or may not be
+the tool that foments that revolution, but at least the possibility has made me feel like I'm
+doing something meaningful here by attempting to teach the language.
+27
+(
+Introduction
+Like any human language, Java provides a way to express concepts. If
+successful, this medium of expression will be significantly easier and more
+flexible than the alternatives as problems grow larger and more complex.
+You can’t look at Java as just a collection of features; some of the features make no sense in
+isolation. You can use the sum of the parts only if you are thinking about design, not simply
+coding. And to understand Java in this way, you must understand the problems with it and
+with programming in general. This book discusses programming problems, why they are
+problems, and the approach Java has taken to solve them. Thus, the set of features I explain
+in each chapter are based on the way I see a particular type of problem being solved with the
+language. In this way I hope to move you, a little at a time, to the point where the Java
+mindset becomes your native tongue.
+Throughout, I’ll be taking the attitude that you want to build a model in your head that
+allows you to develop a deep understanding of the language; if you encounter a puzzle
+you’ll be able to feed it to your model and deduce the answer.
+Prerequisites
+This book assumes that you have some programming familiarity; you understand that a
+program is a collection of statements, the idea of a subroutine/function/macro, control
+statements such as “if” and looping constructs such as “while,” etc. However, you might
+have learned this in many places, such as programming with a macro language or working
+with a tool like Perl. As long as you’ve programmed to the point where you feel comfortable
+with the basic ideas of programming, you’ll be able to work through this book. Of course,
+the book will be easier for the C programmers and more so for the C++ programmers, but
+28 Thinking in Java www.BruceEckel.com
+don’t count yourself out if you’re not experienced with those languages (but come willing to
+work hard). I’ll be introducing the concepts of object-oriented programming and Java’s basic
+control mechanisms, so you’ll be exposed to those, and the first exercises will involve the
+basic control-flow statements.
+Although references will often be made to C and C++ language features, these are not
+intended to be insider comments, but instead to help all programmers put Java in perspective
+with those languages, from which, after all, Java is descended. I will attempt to make these
+references simple and to explain anything that I think a non- C/C++ programmer would
+not be familiar with.
+Learning Java
+At about the same time that my first book Using C++ (Osborne/McGraw-Hill 1989) came
+out, I began teaching that language. Teaching programming languages has become my
+profession; I’ve seen nodding heads, blank faces, and puzzled expressions in audiences all
+over the world since 1989. As I began giving in-house training with smaller groups of
+people, I discovered something during the exercises. Even those people who were smiling and
+nodding were confused about many issues. I found out, by chairing the C++ track at the
+Software Development Conference for the past few years (and now also the Java track), that
+I and other speakers tended to give the typical audience too many topics too fast. So
+eventually, through both variety in the audience level and the way that I presented the
+material, I would end up losing some portion of the audience. Maybe it’s asking too much,
+but because I am one of those people resistant to traditional lecturing (and for most people, I
+believe, such resistance results from boredom), I wanted to try to keep everyone up to speed.
+For a time, I was creating a number of different presentations in fairly short order. Thus, I
+ended up learning by experiment and iteration (a technique that also works well in Java
+program design). Eventually I developed a course using everything I had learned from my
+teaching experience – one that I would be happy giving for a long time. It tackles the
+learning problem in discrete, easy-to-digest steps and in a hands-on seminar (the ideal
+learning situation), there are exercises following each of the short lessons. I now give this
+course in public Java seminars, which you can find out about at http://www.BruceEckel.com.
+(The introductory seminar is also available as a CD ROM. Information is available at the
+same Web site.)
+The feedback that I get from each seminar helps me change and refocus the material until I
+think it works well as a teaching medium. But this book isn’t just a seminar handout – I
+tried to pack as much information as I could within these pages and structured it to draw
+you through onto the next subject. More than anything, the book is designed to serve the
+solitary reader who is struggling with a new programming language.
+Goals
+Like my previous book Thinking in C++, this book has come to be structured around the
+process of teaching the language. In particular, my motivation is to create something that
+provides me with a way to teach the language in my own seminars. When I think of a
+chapter in the book, I think in terms of what makes a good lesson during a seminar. My goal
+is to get bite-sized pieces that can be taught in a reasonable amount of time, followed by
+exercises that are feasible to accomplish in a classroom situation.
+My goals in this book are to:
+Introduction 29
+1. Present the material one simple step at a time so that you can easily digest each
+concept before moving on.
+2. Use examples that are as simple and short as possible. This sometimes prevents me
+from tackling “real world” problems, but I’ve found that beginners are usually
+happier when they can understand every detail of an example rather than being
+impressed by the scope of the problem it solves. Also, there’s a severe limit to the
+amount of code that can be absorbed in a classroom situation. For this I will no doubt
+receive criticism for using “toy examples,” but I’m willing to accept that in favor of
+producing something pedagogically useful.
+3. Carefully sequence the presentation of features so that you aren’t seeing something
+that you haven’t been exposed to. Of course, this isn’t always possible; in those
+situations, a brief introductory description is given.
+4. Give you what I think is important for you to understand about the language, rather
+than everything I know. I believe there is an information importance hierarchy, and
+that there are some facts that 95 percent of programmers will never need to know
+and just confuses people and adds to their perception of the complexity of the
+language. To take an example from C, if you memorize the operator precedence table
+(I never did), you can write clever code. But if you need to think about it, it will also
+confuse the reader/maintainer of that code. So forget about precedence, and use
+parentheses when things aren’t clear.
+5. Keep each section focused enough so that the lecture time – and the time between
+exercise periods – is small. Not only does this keep the audience’s minds more active
+and involved during a hands-on seminar, but it gives the reader a greater sense of
+accomplishment.
+6. Provide you with a solid foundation so that you can understand the issues well
+enough to move on to more difficult coursework and books.
+Online documentation
+The Java language and libraries from Sun Microsystems (a free download) come with
+documentation in electronic form, readable using a Web browser, and virtually every third
+party implementation of Java has this or an equivalent documentation system. Almost all
+the books published on Java have duplicated this documentation. So you either already have
+it or you can download it, and unless necessary, this book will not repeat that
+documentation because it’s usually much faster if you find the class descriptions with your
+Web browser than if you look them up in a book. (Plus it will be up-to-date.) This book will
+provide extra descriptions of the classes only when it’s necessary to supplement the
+documentation so you can understand a particular example.
+Chapters
+This book was designed with one thing in mind: the way people learn the Java language.
+Seminar audience feedback helped me understand which parts were difficult and needed
+30 Thinking in Java www.BruceEckel.com
+illumination. In the areas where I got ambitious and included too many features all at once,
+I came to know – through the process of presenting the material – that if you include a lot of
+new features, you need to explain them all, and this easily compounds the student’s
+confusion. As a result, I’ve taken a great deal of trouble to introduce the features as few at a
+time as possible.
+The goal, then, is for each chapter to teach a single feature, or a small group of associated
+features, in such a way that no additional features are relied upon. That way you can digest
+each piece in the context of your current knowledge before moving on.
+Here is a brief description of the chapters contained in the book, which correspond to
+lectures and exercise periods in my hands-on seminars.
+Chapter 1: Introduction to objects
+This chapter is an overview of what object-oriented programming is all about,
+including the answer to the basic question “What’s an object?”, interface vs.
+implementation, abstraction and encapsulation, messages and functions, inheritance
+and composition, and the all-important polymorphism. You’ll also be introduced to
+issues of object creation such as constructors, where the objects live, where to put
+them once they’re created, and the magical garbage collector that cleans up the
+objects that are no longer needed. Other issues will be introduced, including error
+handling with exceptions, multithreading for responsive user interfaces, and
+networking and the Internet. You’ll also learn about what makes Java special, why
+it’s been so successful, and about object-oriented analysis and design.
+Chapter 2: Everything is an object
+This chapter moves you to the point where you can write your first Java program,
+so it must give an overview of the essentials, including the concept of a “handle” to
+an object; how to create an object; an introduction to primitive types and arrays;
+scoping and the way objects are destroyed by the garbage collector; how everything
+in Java is a new data type (class) and how to create your own classes; functions,
+arguments, and return values; name visibility and using components from other
+libraries; the static keyword; comments and embedded documentation.
+Chapter 3: Controlling program flow
+This chapter begins with all of the operators that come to Java from C and C++. In
+addition, you’ll discover common operator pitfalls, casting, promotion, and
+precedence. This is followed by the basic control-flow and selection operations that
+you get with virtually any programming language: choice with if-else; looping with
+for and while; quitting a loop with break and continue as well as Java’s labeled
+break and labeled continue (which account for the “missing goto” in Java); and
+selection using switch. Although much of this material has common threads with C
+and C++ code, there are some differences. In addition, all the examples will be full
+Java examples so you’ll get more comfortable with what Java looks like.
+Chapter 4: Initialization and cleanup
+This chapter begins by introducing the constructor, which guarantees proper
+initialization. The definition of the constructor leads into the concept of function
+overloading (since you might want several constructors). This is followed by a
+discussion of the process of cleanup, which is not always as simple as it seems.
+Normally, you just drop an object when you’re done with it and the garbage
+collector eventually comes along and releases the memory. This portion explores the
+garbage collector and some of its idiosyncrasies. The chapter concludes with a closer
+look at how things are initialized: automatic member initialization, specifying
+Introduction 31
+member initialization, the order of initialization, static initialization and array
+initialization.
+Chapter 5: Hiding the implementation
+This chapter covers the way that code is packaged together, and why some parts of
+a library are exposed while other parts are hidden. It begins by looking at the
+package and import keywords, which perform file-level packaging and allow you
+to build libraries of classes. The subject of directory paths and file names is also
+examined. The remainder of the chapter looks at the public, private, and protected
+keywords, the concept of “friendly” access, and what the different levels of access
+control mean when used in various contexts.
+Chapter 6: Reusing classes
+The concept of inheritance is standard in virtually all OOP languages. It’s a way to
+take an existing class and add to its functionality (as well as change it, the subject of
+Chapter 7). Inheritance is often a way to reuse code by leaving the “base class” the
+same, and just patching things here and there to produce what you want. However,
+inheritance isn’t the only way to make new classes from existing ones. You can also
+embed an object inside your new class with composition. In this chapter you’ll learn
+about these two ways to reuse code in Java, and how to apply them.
+Chapter 7: Polymorphism
+On your own, you might take nine months to discover and understand
+polymorphism, a cornerstone of OOP. Through small, simple examples you’ll see
+how to create a family of types with inheritance and manipulate objects in that
+family through their common base class. Java’s polymorphism allows you to treat
+all objects in this family generically, which means the bulk of your code doesn’t rely
+on specific type information. This makes your programs extensible, so building
+programs and code maintenance is easier and cheaper. In addition, Java provides a
+third way to set up a reuse relationship through the interface, which is a pure
+abstraction of the interface of an object. Once you’ve seen polymorphism, the
+interface can be clearly understood. This chapter also introduces Java 1.1 inner
+classes.
+Chapter 8: Holding your objects
+It’s a fairly simple program that has only a fixed quantity of objects with known
+lifetimes. In general, your programs will always be creating new objects at a variety
+of times that will be known only while the program is running. In addition, you
+won’t know until run-time the quantity or even the exact type of the objects you
+need. To solve the general programming problem, you need to create any number of
+objects, anytime, anywhere. This chapter explores in depth the tools that Java
+supplies to hold objects while you’re working with them: the simple arrays and
+more sophisticated collections (data structures) such as Vector and Hashtable.
+Finally, the new and improved Java 1.2 collections library is explored in depth.
+Chapter 9: Error handling with exceptions
+The basic philosophy of Java is that badly-formed code will not be run. As much as
+possible, the compiler catches problems, but sometimes the problems – either
+programmer error or a natural error condition that occurs as part of the normal
+execution of the program – can be detected and dealt with only at run-time. Java
+has exception handling to deal with any problems that arise while the program is
+running. This chapter examines how the keywords try, catch, throw, throws, and
+finally work in Java; when you should throw exceptions and what to do when you
+catch them. In addition, you’ll see Java’s standard exceptions, how to create your
+32 Thinking in Java www.BruceEckel.com
+own, what happens with exceptions in constructors, and how exception handlers
+are located.
+Chapter 10: The Java IO system
+Theoretically, you can divide any program into three parts: input, process, and
+output. This implies that IO (input/output) is a pretty important part of the
+equation. In this chapter you’ll learn about the different classes that Java provides
+for reading and writing files, blocks of memory, and the console. The distinction
+between “old” IO and “new” Java 1.1 IO will be shown. In addition, this section
+examines the process of taking an object, “streaming” it (so that it can be placed on
+disk or sent across a network) and reconstructing it, which is handled for you in
+Java version 1.1. Also, Java 1.1’s compression libraries, which are used in the Java
+ARchive file format (JAR), are examined.
+Chapter 11: Run-time type identification
+Java run-time type identification (RTTI) lets you find the exact type of an object
+when you have a handle to only the base type. Normally, you’ll want to
+intentionally ignore the exact type of an object and let Java’s dynamic binding
+mechanism (polymorphism) implement the correct behavior for that type. But
+occasionally it is very helpful to know the exact type of an object for which you
+have only a base handle. Often this information allows you to perform a specialcase
+operation more efficiently. This chapter explains what RTTI is for, how to use it
+and how to get rid of it when it doesn’t belong there. In addition, the Java 1.1
+reflection feature is introduced.
+Chapter 12: Passing and returning objects
+Since the only way you talk to objects in Java is through “handles,” the concepts of
+passing an object into a function and returning an object from a function have
+some interesting consequences. This chapter explains what you need to know to
+manage objects when you’re moving in and out of functions, and also shows the
+String class, which uses a different approach to the problem.
+Chapter 13: Creating windows and applets
+Java comes with the Abstract Window Toolkit (AWT), which is a set of classes that
+handle windowing in a portable fashion; these windowing programs can either be
+applets or stand-alone applications. This chapter is an introduction to the AWT and
+the creation of World Wide Web applets. We’ll also look at pros and cons of the AWT
+and the GUI improvements introduced in Java 1.1. The important “Java Beans”
+technology is introduced. This is fundamental for the creation of Rapid-Application
+Development (RAD) program-building tools. Finally, the new Java 1.2 “Swing”
+library is introduced – this provides a dramatic improvement in UI components for
+Java.
+Chapter 14: Multiple threads
+Java provides a built-in facility to support multiple concurrent subtasks, called
+threads, running within a single program. (Unless you have multiple processors on
+your machine, this is only the appearance of multiple subtasks.) Although these can
+be used anywhere, threads are most powerful when trying to create a responsive
+user interface so, for example, a user isn’t prevented from pressing a button or
+entering data while some processing is going on. This chapter looks at the syntax
+and semantics of multithreading in Java.
+Chapter 15: Network programming
+Introduction 33
+All the Java features and libraries seem to really come together when you start
+writing programs to work across networks. This chapter explores communication
+across the Internet, and the classes that Java provides to make this easier. It also
+shows you how to create a Java applet that talks to a common gateway interface
+(CGI) program, shows you how to write CGI programs in C++ and covers Java
+1.1’s Java DataBase Connectivity (JDBC) and Remote Method Invocation (RMI).
+Chapter 16: Design patterns
+This chapter introduces the very important and yet non-traditional “patterns”
+approach to program design. An example of the design evolution process is studied,
+starting with an initial solution and moving through the logic and process of
+evolving the solution to more appropriate designs. You’ll see one way that a design
+can materialize over time.
+Chapter 17: Projects
+This chapter includes a set of projects that build on the material presented in this
+book, or otherwise didn’t fit in earlier chapters. These projects are significantly
+more complex than the examples in the rest of the book, and they often
+demonstrate new techniques and uses of class libraries.
+There are subjects that didn’t seem to fit within the core of the book, and yet I find
+that I discuss them during seminars. These are placed in the appendices.
+Appendix A: Using non-Java code
+A totally portable Java program has serious drawbacks: speed and the inability to
+access platform-specific services. When you know the platform that you’re running
+on, it’s possible to dramatically speed up certain operations by making them native
+methods, which are functions that are written in another programming language
+(currently, only C/C++ is supported). There are other ways that Java supports
+non-Java code, including CORBA. This appendix gives you enough of an
+introduction to these features that you should be able to create simple examples
+that interface with non-Java code.
+Appendix B: Comparing C++ and Java
+If you’re a C++ programmer, you already have the basic idea of object-oriented
+programming, and the syntax of Java no doubt looks very familiar to you. This
+makes sense because Java was derived from C++. However, there are a surprising
+number of differences between C++ and Java. These differences are intended to be
+significant improvements, and if you understand the differences you’ll see why Java
+is such a beneficial programming language. This appendix takes you through the
+important features that make Java distinct from C++.
+Appendix C: Java programming guidelines
+This appendix contains suggestions to help guide you while performing low-level
+program design and writing code.
+Appendix D: Performance
+This will allow you to find bottlenecks and improve speed in your Java program.
+Appendix E: A bit about garbage collection
+This appendix describes the operation and approaches that are used to implement
+garbage collection.
+Appendix F: Recommended reading
+34 Thinking in Java www.BruceEckel.com
+A list of some of the Java books I’ve found particularly useful.
+Exercises
+I’ve discovered that simple exercises are exceptionally useful during a seminar to complete a
+student’s understanding, so you’ll find a set at the end of each chapter.
+Most exercises are designed to be easy enough that they can be finished in a reasonable
+amount of time in a classroom situation while the instructor observes, making sure that all
+the students are absorbing the material. Some exercises are more advanced to prevent
+boredom for experienced students. The majority are designed to be solved in a short time and
+test and polish your knowledge. Some are more challenging, but none present major
+challenges. (Presumably, you’ll find those on your own – or more likely they’ll find you).
+Multimedia CD ROM
+To accompany this book a Multimedia CD ROM is available separately, but this is not like the
+CDs that you’ll usually find packaged with books. Those often only contain the source code
+for the book. (The code for this book is freely downloadable from the Web site
+www.BruceEckel.com.) This CD ROM is a separate product and contains the entire contents
+of the week-long “Hands-On Java” training seminar. This is more than 15 hours of lectures
+given by Bruce Eckel, synchronized with 500 slides of information. The seminar is based on
+this book so it is an ideal accompaniment.
+The CD ROM contains two versions of this book:
+1. A printable version identical to the one available for download.
+2. For easy on-screen viewing and reference, a screen-formatted and hyperlinked version
+which is available exclusively on the CD-ROM. These hyperlinks include:
+ 230 chapter, section, and sub-heading links
+ 3600 index links
+The CD ROM contains over 600MB of content. We believe that it sets a new standard for
+value.
+The CD ROM contains everything in the printable version of the book and everything (with
+the important exception of personalized attention!) from the five-day full-immersion
+training seminars. We believe that it sets a new standard for quality.
+The CD ROM is available only by ordering directly from the Web site www.BruceEckel.com.
+Source code
+All the source code for this book is available as copyrighted freeware, distributed as a single
+package, by visiting the Web site http://www.BruceEckel.com. To make sure that you get the
+most current version, this is the official site for distribution of the code and the electronic
+version of the book. You can find mirrored versions of the electronic book and the code on
+other sites (some of these sites are found at http://www.BruceEckel.com), but you should
+Introduction 35
+check the official site to ensure that the mirrored version is actually the most recent edition.
+You may distribute the code in classroom and other educational situations.
+The primary goal of the copyright is to ensure that the source of the code is properly cited,
+and to prevent you from republishing the code in print media without permission. (As long
+as the source is cited, using examples from the book in most media is generally not a
+problem.)
+In each source code file you will find the following copyright notice:
+//////////////////////////////////////////////////
+// Copyright (c) Bruce Eckel, 1998
+// Source code file from the book "Thinking in Java"
+// All rights reserved EXCEPT as allowed by the
+// following statements: You can freely use this file
+// for your own work (personal or commercial),
+// including modifications and distribution in
+// executable form only. Permission is granted to use
+// this file in classroom situations, including its
+// use in presentation materials, as long as the book
+// "Thinking in Java" is cited as the source.
+// Except in classroom situations, you cannot copy
+// and distribute this code; instead, the sole
+// distribution point is http://www.BruceEckel.com
+// (and official mirror sites) where it is
+// freely available. You cannot remove this
+// copyright and notice. You cannot distribute
+// modified versions of the source code in this
+// package. You cannot use this file in printed
+// media without the express permission of the
+// author. Bruce Eckel makes no representation about
+// the suitability of this software for any purpose.
+// It is provided "as is" without express or implied
+// warranty of any kind, including any implied
+// warranty of merchantability, fitness for a
+// particular purpose or non-infringement. The entire
+// risk as to the quality and performance of the
+// software is with you. Bruce Eckel and the
+// publisher shall not be liable for any damages
+// suffered by you or any third party as a result of
+// using or distributing software. In no event will
+// Bruce Eckel or the publisher be liable for any
+// lost revenue, profit, or data, or for direct,
+// indirect, special, consequential, incidental, or
+// punitive damages, however caused and regardless of
+// the theory of liability, arising out of the use of
+// or inability to use software, even if Bruce Eckel
+// and the publisher have been advised of the
+// possibility of such damages. Should the software
+// prove defective, you assume the cost of all
+// necessary servicing, repair, or correction. If you
+// think you've found an error, please email all
+// modified files with clearly commented changes to:
+// Bruce@EckelObjects.com. (Please use the same
+36 Thinking in Java www.BruceEckel.com
+// address for non-code errors found in the book.)
+/////////////////////////////////////////////////
+You may use the code in your projects and in the classroom (including your presentation
+materials) as long as the copyright notice that appears in each source file is retained.
+Coding standards
+In the text of this book, identifiers (function, variable and class names) will be set in bold.
+Most keywords will also be set in bold, except for those keywords that are used so much that
+the bolding can become tedious, such as “class.”
+I use a particular coding style for the examples in this book. This style seems to be supported
+by most Java development environments. It was developed over a number of years, and was
+inspired by Bjarne Stroustrup’s style in his original The C++ Programming Language
+(Addison-Wesley, 1991; 2nd ed.). The subject of formatting style is good for hours of hot
+debate, so I’ll just say I’m not trying to dictate correct style via my examples; I have my
+own motivation for using the style that I do. Because Java is a free-form programming
+language, you can continue to use whatever style you’re comfortable with.
+The programs in this book are files that are included by the word processor in the text,
+directly from compiled files. Thus, the code files printed in the book should all work without
+compiler errors. The errors that should cause compile-time error messages are commented
+out with the comment //! so they can be easily discovered and tested using automatic
+means. Errors discovered and reported to the author will appear first in the distributed
+source code and later in updates of the book (which will also appear on the Web site
+http://www.BruceEckel.com).
+Java versions
+Although I test the code in this book with several different vendor implementations of Java, I
+generally rely on the Sun implementation as a reference when determining whether behavior
+is correct.
+By the time you read this, Sun will have released three major versions of Java: 1.0, 1.1 and
+1.2 (Sun says it will make a major release about every nine months!). Version 1.1 represents
+a significant change to the language and should probably have been labeled 2.0. (And if 1.1
+is such a big change from 1.0, I shudder to think what will justify the number 2.0.)
+However, it’s version 1.2 that seems to finally bring Java into the prime time, in particular
+where user interface tools are concerned.
+This book covers versions 1.0, 1.1 and selected parts of 1.2, although in situations where a
+new approach is clearly superior to the old, I definitely favor the new approach, often
+choosing to teach the better approach and completely ignore the old approach. However,
+there are some cases where it’s unavoidable to teach the old approach before the new, in
+particular with the AWT, since not only is there a lot of old Java 1.0 code out there, but
+some platforms still support only Java 1.0. I will try to be scrupulous about pointing out
+which features belong to which version.
+One thing you’ll notice is that I don’t use the sub-revision numbers. At this writing, the
+released version of 1.0 from Sun was 1.02 and the released version of 1.1 was 1.1.5 (Java
+1.2 was in beta). In this book I will refer to Java 1.0, Java 1.1 and Java 1.2 only, to guard
+against typographical errors produced by further sub-revisioning of these products.
+Introduction 37
+Seminars and mentoring
+My company provides five-day, hands-on, public and in-house training seminars based on
+the material in this book. Selected material from each chapter represents a lesson, which is
+followed by a monitored exercise period so each student receives personal attention. The
+lectures and slides for the introductory seminar are also captured on CD-ROM to provide at
+least some of the experience of the seminar without the travel and expense. For more
+information, go to:
+http://www.BruceEckel.com
+or email:
+Bruce@EckelObjects.com
+My company also provides consulting services to help guide your project through its
+development cycle – especially your company’s first Java project.
+Errors
+No matter how many tricks a writer uses to detect errors, some always creep in and these
+often leap off the page for a fresh reader. If you discover anything you believe to be an error,
+please send the original source file (which you can find at http://www.BruceEckel.com)
+with a clearly commented error (following the form shown on the Web page) and suggested
+correction via electronic mail to Bruce@EckelObjects.com so that it might be fixed in the
+electronic version on the Web site and in the next printing of the book. When you submit a
+correction, please use the following format:
+1. Put “TIJ Correction” (and nothing else) as the subject line – this way my email program
+can route it to the right directory.
+2. In the body of your email, please use the form:
+find: one-line string to search for
+comment:
+multi-line comment, best starting with "here's how I think it
+should read"
+###
+Where the ‘###’ is to indicate the end of comment. This way, my correction tools can do a
+“find” using the original text, and your suggested correction will pop up in a window next
+to it.
+Suggestions for additional exercises or requests to cover specific topics in the next edition are
+welcome. Your help is appreciated.
+Note on the cover design
+The cover of Thinking in Java is inspired by the American Arts & Crafts Movement, which
+began near the turn of the century and reached its zenith between 1900 and 1920. It began
+in England as a reaction to both the machine production of the Industrial Revolution and the
+highly ornamental style of the Victorian era. Arts & Crafts emphasized spare design, the
+forms of nature as seen in the art nouveau movement, hand-crafting, and the importance of
+38 Thinking in Java www.BruceEckel.com
+the individual craftsperson, and yet it did not eschew the use of modern tools. There are
+many echoes with the situation we have today: the impending turn of the century, the
+evolution from the raw beginnings of the computer revolution to something more refined
+and meaningful to individual persons, and the emphasis on software craftsmanship rather
+than just manufacturing code.
+I see Java in this same way: as an attempt to elevate the programmer away from an
+operating-system mechanic and towards being a “software craftsman.”
+Both the author and the book/cover designer (who have been friends since childhood) find
+inspiration in this movement, and both own furniture, lamps and other pieces that are either
+original or inspired by this period.
+The other theme in this cover suggests a collection box that a naturalist might use to display
+the insect specimens that he or she has preserved. These insects are objects, placed within the
+box objects which are themselves placed within the “cover object,” which illustrates the
+fundamental concept of aggregation in object-oriented programming. Of course, a
+programmer cannot help but make the association with “bugs,” and here the bugs have been
+captured and presumably killed in a specimen jar, and finally confined within a small display
+box, as if to imply Java’s ability to find, display and subdue bugs (which is truly one of its
+most powerful attributes).
+Acknowledgements
+First of all, thanks to the Doyle Street Cohousing Community for putting up with me for the
+two years that it took me to write this book (and for putting up with me at all). Thanks
+very much to Kevin and Sonda Donovan for subletting their great place in gorgeous Crested
+Butte, Colorado for the summer while I worked on the book. Also thanks to the friendly
+residents of Crested Butte and the Rocky Mountain Biological Laboratory who made me feel
+so welcome. The World Gym in Emeryville and its enthusiastic staff helped keep me sane
+during the final months of the book.
+This is my first experience using an agent, and I’m not looking back. Thanks to Claudette
+Moore at Moore Literary Agency for her tremendous patience and perseverance in getting me
+exactly what I wanted.
+My first two books were published with Jeff Pepper as editor at Osborne/McGraw-Hill. Jeff
+appeared at the right place and the right time at Prentice-Hall and has cleared the path and
+made all the right things happen to make this the most pleasant publishing experience I’ve
+ever had. Thanks, Jeff – it means a lot to me.
+I’m especially indebted to Gen Kiyooka and his company Digigami, who have graciously
+provided my Web server, and to Scott Callaway who has maintained it. This has been an
+invaluable aid while I was learning about the Web.
+Thanks to Cay Horstmann (co-author of Core Java, Prentice Hall 1997), D’Arcy Smith
+(Symantec), and Paul Tyma (co-author of Java Primer Plus, The Waite Group 1996), for
+helping me clarify concepts in the language.
+Thanks to people who have spoken in my Java track at the Software Development
+Conference, and students in my seminars, who ask the questions I need to hear in order to
+make the material more clear.
+Introduction 39
+Special thanks to Larry and Tina O’Brien, who turned this book and my seminar into a
+teaching CD ROM. (You can find out more at http://www.BruceEckel.com.)
+Lots of people sent in corrections and I am indebted to them all, but particular thanks go to:
+Kevin Raulerson (found tons of great bugs), Bob Resendes (simply incredible), John Pinto, Joe
+Dante, Joe Sharp (all three were fabulous), David Combs (many grammar and clarification
+corrections), Dr. Robert Stephenson, Franklin Chen, Zev Griner, David Karr, Leander A.
+Stroschein, Steve Clark, Charles A. Lee, Austin Maher, Dennis P. Roth, Roque Oliveira,
+Douglas Dunn, Dejan Ristic, Neil Galarneau, David B. Malkovsky, Steve Wilkinson, and a
+host of others.
+Prof. Ir. Marc Meurrens put in a great deal of effort to publicize and make the book available
+in Europe.
+There have been a spate of smart technical people in my life who have become friends and
+have also been both influential and unusual in that they’re vegetarians, do yoga and practice
+other forms of spiritual enhancement, which I find quite inspirational and instructional.
+They are Kraig Brockschmidt, Gen Kiyooka and Andrea Provaglio, who helps in the
+understanding of Java and programming in general in Italy.
+It’s not that much of a surprise to me that understanding Delphi helped me understand
+Java, since there are many concepts and language design decisions in common. My Delphi
+friends provided assistance by helping me gain insight into that marvelous programming
+environment. They are Marco Cantu (another Italian – perhaps being steeped in Latin gives
+one aptitude for programming languages?), Neil Rubenking (who used to do the
+yoga/vegetarian/Zen thing but discovered computers) and of course Zack Urlocker, a longtime
+pal whom I’ve traveled the world with.
+My friend Richard Hale Shaw’s insights and support have been very helpful (and Kim’s, too).
+Richard and I spent many months giving seminars together and trying to work out the
+perfect learning experience for the attendees. Thanks also to KoAnn Vikoren, Eric Faurot,
+Deborah Sommers, Julie Shaw, Nicole Freeman, Cindy Blair, Barbara Hanscome, Regina
+Ridley, Alex Dunne, and the rest of the cast and crew at MFI.
+The book design, cover design, and cover photo were created by my friend Daniel Will-
+Harris, noted author and designer (http://www.Will-Harris.com), who used to play with rubon
+letters in junior high school while he awaited the invention of computers and desktop
+publishing, and complained of me mumbling over my algebra problems. However, I
+produced the camera-ready pages myself, so the typesetting errors are mine. Microsoft®
+Word 97 for Windows was used to write the book and to create camera-ready pages. The
+body typeface is Bitstream Carmina and the headlines are in Bitstream Calligraph 421
+(www.bitstream.com). The symbols at the start of each chapter are Leonardo Extras from P22
+(http://www.p22.com). The cover typeface is ITC Rennie Mackintosh.
+Thanks to the vendors who supplied me with compilers: Borland, Microsoft, Symantec,
+Sybase/Powersoft/Watcom, and of course, Sun.
+A special thanks to all my teachers and all my students (who are my teachers as well). The
+most fun writing teacher was Gabrielle Rico (author of Writing the Natural Way, Putnam
+1983). I’ll always treasure the terrific week at Esalen.
+The supporting cast of friends includes, but is not limited to: Andrew Binstock, Steve
+Sinofsky, JD Hildebrandt, Tom Keffer, Brian McElhinney, Brinkley Barr, Bill Gates at Midnight
+Engineering Magazine, Larry Constantine and Lucy Lockwood, Greg Perry, Dan Putterman,
+Christi Westphal, Gene Wang, Dave Mayer, David Intersimone, Andrea Rosenfield, Claire
+Sawyers, more Italians (Laura Fallai, Corrado, Ilsa, and Cristina Giustozzi), Chris and Laura
+40 Thinking in Java www.BruceEckel.com
+Strand, the Almquists, Brad Jerbic, Marilyn Cvitanic, the Mabrys, the Haflingers, the
+Pollocks, Peter Vinci, the Robbins Families, the Moelter Families (and the McMillans), Michael
+Wilk, Dave Stoner, Laurie Adams, the Cranstons, Larry Fogg, Mike and Karen Sequeira, Gary
+Entsminger and Allison Brody, Kevin Donovan and Sonda Eastlack, Chester and Shannon
+Andersen, Joe Lordi, Dave and Brenda Bartlett, David Lee, the Rentschlers, the Sudeks, Dick,
+Patty, and Lee Eckel, Lynn and Todd, and their families. And of course, Mom and Dad.
+41
+ABC
+1: Introduction
+to objects
+Why has object-oriented programming had such a sweeping impact on the
+software development community?
+Object-oriented programming appeals at multiple levels. For managers, it promises faster
+and cheaper development and maintenance. For analysts and designers, the modeling process
+becomes simpler and produces a clear, manageable design. For programmers, the elegance
+and clarity of the object model and the power of object-oriented tools and libraries makes
+programming a much more pleasant task, and programmers experience an increase in
+productivity. Everybody wins, it would seem.
+If there’s a downside, it is the expense of the learning curve. Thinking in objects is a dramatic
+departure from thinking procedurally, and the process of designing objects is much more
+challenging than procedural design, especially if you’re trying to create reusable objects. In
+the past, a novice practitioner of object-oriented programming was faced with a choice
+between two daunting tasks:
+1. Choose a language such as Smalltalk in which you had to learn a large library before
+becoming productive.
+2. Choose C++ with virtually no libraries at all,1 and struggle through the depths of the
+language in order to write your own libraries of objects.
+1 Fortunately, this has change significantly with the advent of third-party libraries and the Standard
+C++ library.
+42 Thinking in Java www.BruceEckel.com
+It is, in fact, difficult to design objects well – for that matter, it’s hard to design anything
+well. But the intent is that a relatively few experts design the best objects for others to
+consume. Successful OOP languages incorporate not just language syntax and a compiler,
+but an entire development environment including a significant library of well-designed, easy
+to use objects. Thus, the primary job of most programmers is to use existing objects to solve
+their application problems. The goal of this chapter is to show you what object-oriented
+programming is and how simple it can be.
+This chapter will introduce many of the ideas of Java and object-oriented programming on a
+conceptual level, but keep in mind that you’re not expected to be able to write full-fledged
+Java programs after reading this chapter. All the detailed descriptions and examples will
+follow throughout the course of this book.
+The progress of abstraction
+All programming languages provide abstractions. It can be argued that the complexity of the
+problems you can solve is directly related to the kind and quality of abstraction. By “kind” I
+mean: what is it that you are abstracting? Assembly language is a small abstraction of the
+underlying machine. Many so-called “imperative” languages that followed (such as
+FORTRAN, BASIC, and C) were abstractions of assembly language. These languages are big
+improvements over assembly language, but their primary abstraction still requires you to
+think in terms of the structure of the computer rather than the structure of the problem you
+are trying to solve. The programmer must establish the association between the machine
+model (in the “solution space”) and the model of the problem that is actually being solved (in
+the “problem space”). The effort required to perform this mapping, and the fact that it is
+extrinsic to the programming language, produces programs that are difficult to write and
+expensive to maintain, and as a side effect created the entire “programming methods”
+industry.
+The alternative to modeling the machine is to model the problem you’re trying to solve.
+Early languages such as LISP and APL chose particular views of the world (“all problems are
+ultimately lists” or “all problems are algorithmic”). PROLOG casts all problems into chains of
+decisions. Languages have been created for constraint-based programming and for
+programming exclusively by manipulating graphical symbols. (The latter proved to be too
+restrictive.) Each of these approaches is a good solution to the particular class of problem
+they’re designed to solve, but when you step outside of that domain they become awkward.
+The object-oriented approach takes a step farther by providing tools for the programmer to
+represent elements in the problem space. This representation is general enough that the
+programmer is not constrained to any particular type of problem. We refer to the elements
+in the problem space and their representations in the solution space as “objects.” (Of course,
+you will also need other objects that don’t have problem-space analogs.) The idea is that the
+program is allowed to adapt itself to the lingo of the problem by adding new types of
+objects, so when you read the code describing the solution, you’re reading words that also
+express the problem. This is a more flexible and powerful language abstraction than what
+we’ve had before. Thus OOP allows you to describe the problem in terms of the problem,
+rather than in the terms of the solution. There’s still a connection back to the computer,
+though. Each object looks quite a bit like a little computer; it has a state, and it has
+operations you can ask it to perform. However, this doesn’t seem like such a bad analogy to
+objects in the real world; they all have characteristics and behaviors.
+Chapter 1: Introduction to Objects 43
+Alan Kay summarized five basic characteristics of Smalltalk, the first successful objectoriented
+language and one of the languages upon which Java is based. These characteristics
+represent a pure approach to object-oriented programming:
+1. Everything is an object. Think of an object as a fancy variable; it stores data, but you can
+also ask it to perform operations on itself by making requests. In theory, you can take any
+conceptual component in the problem you’re trying to solve (dogs, buildings, services, etc.)
+and represent it as an object in your program.
+2. A program is a bunch of objects telling each other what to do by sending messages. To
+make a request of an object, you “send a message” to that object. More concretely, you can
+think of a message as a request to call a function that belongs to a particular object.
+3. Each object has its own memory made up of other objects. Or, you make a new kind of
+object by making a package containing existing objects. Thus, you can build up complexity in
+a program while hiding it behind the simplicity of objects.
+4. Every object has a type. Using the parlance, each object is an instance of a class, where
+“class” is synonymous with “type.” The most important distinguishing characteristic of a
+class is “what messages can you send to it?”
+5. All objects of a particular type can receive the same messages. This is actually a very
+loaded statement, as you will see later. Because an object of type circle is also an object of
+type shape, a circle is guaranteed to receive shape messages. This means you can write code
+that talks to shapes and automatically handle anything that fits the description of a shape.
+This substitutability is one of the most powerful concepts in OOP.
+Some language designers have decided that object-oriented programming itself is not
+adequate to easily solve all programming problems, and advocate the combination of various
+approaches into multiparadigm programming languages.2
+An object has an interface
+Aristotle was probably the first to begin a careful study of the concept of type. He was
+known to speak of “the class of fishes and the class of birds.” The concept that all objects,
+while being unique, are also part of a set of objects that have characteristics and behaviors in
+common was directly used in the first object-oriented language, Simula-67, with its
+fundamental keyword class that introduces a new type into a program (thus class and type
+are often used synonymously3).
+Simula, as its name implies, was created for developing simulations such as the classic “bank
+teller problem.” In this, you have a bunch of tellers, customers, accounts, transactions, etc.
+The members (elements) of each class share some commonality: every account has a balance,
+every teller can accept a deposit, etc. At the same time, each member has its own state; each
+account has a different balance, each teller has a name. Thus the tellers, customers,
+accounts, transactions, etc. can each be represented with a unique entity in the computer
+program. This entity is the object, and each object belongs to a particular class that defines
+its characteristics and behaviors.
+So, although what we really do in object-oriented programming is create new data types,
+virtually all object-oriented programming languages use the “class” keyword. When you see
+the word “type” think “class” and vice versa.
+2 See Multiparadigm Programming in Leda by Timothy Budd (Addison-Wesley 1995).
+3 Some people make a distinction, stating that type determines the interface while class is a particular
+implementation of that interface.
+44 Thinking in Java www.BruceEckel.com
+Once a type is established, you can make as many objects of that type as you like, and then
+manipulate those objects as the elements that exist in the problem you are trying to solve.
+Indeed, one of the challenges of object-oriented programming is to create a one-to-one
+mapping between the elements in the problem space (the place where the problem actually
+exists) and the solution space (the place where you’re modeling that problem, such as a
+computer).
+But how do you get an object to do useful work for you? There must be a way to make a
+request of that object so it will do something, such as complete a transaction, draw
+something on the screen or turn on a switch. And each object can satisfy only certain
+requests. The requests you can make of an object are defined by its interface, and the type is
+what determines the interface. The idea of type being equivalent to interface is fundamental
+in object-oriented programming.
+A simple example might be a representation of a light bulb:
+Light lt = new Light();
+lt.on();
+The name of the type/class is Light, and the requests that you can make of a Light object
+are to turn it on, turn it off, make it brighter or make it dimmer. You create a “handle” for a
+Light simply by declaring a name (lt) for that identifier, and you make an object of type
+Light with the new keyword, assigning it to the handle with the = sign. To send a message
+to the object, you state the handle name and connect it to the message name with a period
+(dot). From the standpoint of the user of a pre-defined class, that’s pretty much all there is to
+programming with objects.
+The hidden implementation
+It is helpful to break up the playing field into class creators (those who create new data
+types) and client programmers4 (the class consumers who use the data types in their
+applications). The goal of the client programmer is to collect a toolbox full of classes to use
+for rapid application development. The goal of the class creator is to build a class that
+exposes only what’s necessary to the client programmer and keeps everything else hidden.
+Why? If it’s hidden, the client programmer can’t use it, which means that the class creator
+can change the hidden portion at will without worrying about the impact to anyone else.
+4 I’m indebted to my friend Scott Meyers for this term.
+Light
+on( )
+off( )
+brighten( )
+dim( )
+Type Name
+Interface
+Chapter 1: Introduction to Objects 45
+The interface establishes what requests you can make for a particular object. However, there
+must be code somewhere to satisfy that request. This, along with the hidden data, comprises
+the implementation. From a procedural programming standpoint, it’s not that complicated. A
+type has a function associated with each possible request, and when you make a particular
+request to an object, that function is called. This process is often summarized by saying that
+you “send a message” (make a request) to an object, and the object figures out what to do
+with that message (it executes code).
+In any relationship it’s important to have boundaries that are respected by all parties
+involved. When you create a library, you establish a relationship with the client
+programmer, who is another programmer, but one who is putting together an application or
+using your library to build a bigger library.
+If all the members of a class are available to everyone, then the client programmer can do
+anything with that class and there’s no way to force any particular behaviors. Even though
+you might really prefer that the client programmer not directly manipulate some of the
+members of your class, without access control there’s no way to prevent it. Everything’s
+naked to the world.
+There are two reasons for controlling access to members. The first is to keep client
+programmers’ hands off portions they shouldn’t touch – parts that are necessary for the
+internal machinations of the data type but not part of the interface that users need to solve
+their particular problems. This is actually a service to users because they can easily see
+what’s important to them and what they can ignore.
+The second reason for access control is to allow the library designer to change the internal
+workings of the structure without worrying about how it will affect the client programmer.
+For example, you might implement a particular class in a simple fashion to ease
+development, and then later decide you need to rewrite it to make it run faster. If the
+interface and implementation are clearly separated and protected, you can accomplish this
+and require only a relink by the user.
+Java uses three explicit keywords and one implied keyword to set the boundaries in a class:
+public, private, protected and the implied “friendly,” which is what you get if you don’t
+specify one of the other keywords. Their use and meaning are remarkably straightforward.
+These access specifiers determine who can use the definition that follows. public means the
+following definition is available to everyone. The private keyword, on the other hand,
+means that no one can access that definition except you, the creator of the type, inside
+function members of that type. private is a brick wall between you and the client
+programmer. If someone tries to access a private member, they’ll get a compile-time error.
+“Friendly” has to do with something called a “package,” which is Java’s way of making
+libraries. If something is “friendly” it’s available only within the package. (Thus this access
+level is sometimes referred to as “package access.”) protected acts just like private, with the
+exception that an inheriting class has access to protected members, but not private
+members. Inheritance will be covered shortly.
+Reusing
+the implementation
+Once a class has been created and tested, it should (ideally) represent a useful unit of code. It
+turns out that this reusability is not nearly so easy to achieve as many would hope; it takes
+experience and insight to achieve a good design. But once you have such a design, it begs to
+46 Thinking in Java www.BruceEckel.com
+be reused. Code reuse is arguably the greatest leverage that object-oriented programming
+languages provide.
+The simplest way to reuse a class is to just use an object of that class directly, but you can
+also place an object of that class inside a new class. We call this “creating a member object.”
+Your new class can be made up of any number and type of other objects, whatever is
+necessary to achieve the functionality desired in your new class. This concept is called
+composition, since you are composing a new class from existing classes. Sometimes
+composition is referred to as a “has-a” relationship, as in “a car has a trunk.”
+Composition comes with a great deal of flexibility. The member objects of your new class are
+usually private, making them inaccessible to client programmers using the class. This allows
+you to change those members without disturbing existing client code. You can also change
+the member objects at run time, which provides great flexibility. Inheritance, which is
+described next, does not have this flexibility since the compiler must place restrictions on
+classes created with inheritance.
+Because inheritance is so important in object-oriented programming it is often highly
+emphasized, and the new programmer can get the idea that inheritance should be used
+everywhere. This can result in awkward and overcomplicated designs. Instead, you should
+first look to composition when creating new classes, since it is simpler and more flexible. If
+you take this approach, your designs will stay cleaner. It will be reasonably obvious when
+you need inheritance.
+Inheritance:
+reusing the interface
+By itself, the concept of an object is a convenient tool. It allows you to package data and
+functionality together by concept, so you can represent an appropriate problem-space idea
+rather than being forced to use the idioms of the underlying machine. These concepts are
+expressed in the primary idea of the programming language as a data type (using the class
+keyword).
+It seems a pity, however, to go to all the trouble to create a data type and then be forced to
+create a brand new one that might have similar functionality. It’s nicer if we can take the
+existing data type, clone it and make additions and modifications to the clone. This is
+effectively what you get with inheritance, with the exception that if the original class (called
+the base or super or parent class) is changed, the modified “clone” (called the derived or
+inherited or sub or child class) also reflects the appropriate changes. Inheritance is
+implemented in Java with the extends keyword. You make a new class and you say that it
+extends an existing class.
+When you inherit you create a new type, and the new type contains not only all the
+members of the existing type (although the private ones are hidden away and inaccessible),
+but more importantly it duplicates the interface of the base class. That is, all the messages
+you can send to objects of the base class you can also send to objects of the derived class.
+Since we know the type of a class by the messages we can send to it, this means that the
+derived class is the same type as the base class. This type equivalence via inheritance is one of
+the fundamental gateways in understanding the meaning of object-oriented programming.
+Since both the base class and derived class have the same interface, there must be some
+implementation to go along with that interface. That is, there must be a method to execute
+Chapter 1: Introduction to Objects 47
+when an object receives a particular message. If you simply inherit a class and don’t do
+anything else, the methods from the base-class interface come right along into the derived
+class. That means objects of the derived class have not only the same type, they also have the
+same behavior, which doesn’t seem particularly interesting.
+You have two ways to differentiate your new derived class from the original base class it
+inherits from. The first is quite straightforward: you simply add brand new functions to the
+derived class. These new functions are not part of the base class interface. This means that
+the base class simply didn’t do as much as you wanted it to, so you add more functions. This
+simple and primitive use for inheritance is, at times, the perfect solution to your problem.
+However, you should look closely for the possibility that your base class might need these
+additional functions.
+Overriding base-class functionality
+Although the extends keyword implies that you are going to add new functions to the
+interface, that’s not necessarily true. The second way to differentiate your new class is to
+change the behavior of an existing base-class function. This is referred to as overriding that
+function.
+To override a function, you simply create a new definition for the function in the derived
+class. You’re saying “I’m using the same interface function here, but I want it to do
+something different for my new type.”
+Is-a vs. is-like-a relationships
+There’s a certain debate that can occur about inheritance: Should inheritance override only
+base-class functions? This means that the derived type is exactly the same type as the base
+class since it has exactly the same interface. As a result, you can exactly substitute an object
+of the derived class for an object of the base class. This can be thought of as pure substitution.
+In a sense, this is the ideal way to treat inheritance. We often refer to the relationship
+between the base class and derived classes in this case as an is-a relationship, because you
+can say “a circle is a shape.” A test for inheritance is whether you can state the is-a
+relationship about the classes and have it make sense.
+There are times when you must add new interface elements to a derived type, thus extending
+the interface and creating a new type. The new type can still be substituted for the base type,
+but the substitution isn’t perfect in a sense because your new functions are not accessible
+from the base type. This can be described as an is-like-a relationship; the new type has the
+interface of the old type but it also contains other functions, so you can’t really say it’s
+exactly the same. For example, consider an air conditioner. Suppose your house is wired with
+all the controls for cooling; that is, it has an interface that allows you to control cooling.
+Imagine that the air conditioner breaks down and you replace it with a heat pump, which
+can both heat and cool. The heat pump is-like-an air conditioner, but it can do more. Because
+your house is wired only to control cooling, it is restricted to communication with the
+cooling part of the new object. The interface of the new object has been extended, and the
+existing system doesn’t know about anything except the original interface.
+When you see the substitution principle it’s easy to feel like that’s the only way to do things,
+and in fact it is nice if your design works out that way. But you’ll find that there are times
+when it’s equally clear that you must add new functions to the interface of a derived class.
+With inspection both cases should be reasonably obvious.
+48 Thinking in Java www.BruceEckel.com
+Interchangeable objects
+with polymorphism
+Inheritance usually ends up creating a family of classes, all based on the same uniform
+interface. We express this with an inverted tree diagram:5
+One of the most important things you do with such a family of classes is to treat an object
+of a derived class as an object of the base class. This is important because it means you can
+write a single piece of code that ignores the specific details of type and talks just to the base
+class. That code is then decoupled from type-specific information, and thus is simpler to
+write and easier to understand. And, if a new type – a Triangle, for example – is added
+through inheritance, the code you write will work just as well for the new type of Shape as
+it did on the existing types. Thus the program is extensible.
+Consider the above example. If you write a function in Java:
+void doStuff(Shape s) {
+s.erase();
+// ...
+s.draw();
+}
+This function speaks to any Shape, so it is independent of the specific type of object it’s
+drawing and erasing. If in some other program we use the doStuff( ) function:
+Circle c = new Circle();
+Triangle t = new Triangle();
+Line l = new Line();
+doStuff(c);
+doStuff(t);
+doStuff(l);
+5 This uses the Unified Notation, which will primarily be used in this book.
+Shape
+draw()
+erase()
+Circle
+draw()
+erase(
+Square
+draw()
+erase()
+Line
+draw()
+erase()
+Chapter 1: Introduction to Objects 49
+The calls to doStuff( ) automatically work right, regardless of the exact type of the object.
+This is actually a pretty amazing trick. Consider the line:
+doStuff(c);
+What’s happening here is that a Circle handle is being passed into a function that’s
+expecting a Shape handle. Since a Circle is a Shape it can be treated as one by doStuff( ).
+That is, any message that doStuff( ) can send to a Shape, a Circle can accept. So it is a
+completely safe and logical thing to do.
+We call this process of treating a derived type as though it were its base type upcasting. The
+name cast is used in the sense of casting into a mold and the up comes from the way the
+inheritance diagram is typically arranged, with the base type at the top and the derived
+classes fanning out downward. Thus, casting to a base type is moving up the inheritance
+diagram: upcasting.
+An object-oriented program contains some upcasting somewhere, because that’s how you
+decouple yourself from knowing about the exact type you’re working with. Look at the code
+in doStuff( ):
+s.erase();
+// ...
+s.draw();
+Notice that it doesn’t say “If you’re a Circle, do this, if you’re a Square, do that, etc.” If you
+write that kind of code, which checks for all the possible types a Shape can actually be, it’s
+messy and you need to change it every time you add a new kind of Shape. Here, you just
+say “You’re a shape, I know you can erase( ) yourself, do it and take care of the details
+correctly.”
+Dynamic binding
+What’s amazing about the code in doStuff( ) is that somehow the right thing happens.
+Calling draw( ) for Circle causes different code to be executed than when calling draw( ) for
+a Square or a Line, but when the draw( ) message is sent to an anonymous Shape, the
+correct behavior occurs based on the actual type that the Shape handle happens to be
+connected to. This is amazing because when the Java compiler is compiling the code for
+doStuff( ), it cannot know exactly what types it is dealing with. So ordinarily, you’d expect
+it to end up calling the version of erase( ) for Shape, and draw( ) for Shape and not for the
+specific Circle, Square, or Line. And yet the right thing happens. Here’s how it works.
+When you send a message to an object even though you don’t know what specific type it is,
+and the right thing happens, that’s called polymorphism. The process used by object-oriented
+programming languages to implement polymorphism is called dynamic binding. The
+compiler and run-time system handle the details; all you need to know is that it happens
+and more importantly how to design with it.
+Some languages require you to use a special keyword to enable dynamic binding. In C++
+this keyword is virtual. In Java, you never need to remember to add a keyword because
+functions are automatically dynamically bound. So you can always expect that when you
+send a message to an object, the object will do the right thing, even when upcasting is
+involved.
+50 Thinking in Java www.BruceEckel.com
+Abstract base classes and interfaces
+Often in a design, you want the base class to present only an interface for its derived classes.
+That is, you don’t want anyone to actually create an object of the base class, only to upcast
+to it so that its interface can be used. This is accomplished by making that class abstract
+using the abstract keyword. If anyone tries to make an object of an abstract class, the
+compiler prevents them. This is a tool to enforce a particular design.
+You can also use the abstract keyword to describe a method that hasn’t been implemented
+yet – as a stub indicating “here is an interface function for all types inherited from this class,
+but at this point I don’t have any implementation for it.” An abstract method may be
+created only inside an abstract class. When the class is inherited, that method must be
+implemented, or the inherited class becomes abstract as well. Creating an abstract method
+allows you to put a method in an interface without being forced to provide a possibly
+meaningless body of code for that method.
+The interface keyword takes the concept of an abstract class one step further by preventing
+any function definitions at all. The interface is a very useful and commonly-used tool, as it
+provides the perfect separation of interface and implementation. In addition, you can
+combine many interfaces together, if you wish. (You cannot inherit from more than one
+regular class or abstract class.)
+Object landscapes
