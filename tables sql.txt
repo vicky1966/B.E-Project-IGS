@@ -3,7 +3,7 @@ create table company
  cid number primary key,
  cname varchar(30),
  curl varchar(30),
- cdescription varchar(500), 
+ cdescription varchar(500) 
  cphone varchar(30)
 );
 
@@ -19,8 +19,9 @@ create table interview
 create table subject
 (
  sid number primary key,
- sname varchar(30)
+ sname varchar(30),
 );
+.
 
 create table scaling
 (
@@ -35,8 +36,8 @@ create table topic
 (
  tid number primary key,
  tname varchar(30),
- trank number,
- sid number references subject(sid)
+ trank numberz
+ sid number references subject(sid),
 );
 
 
@@ -54,6 +55,12 @@ create table qoption
  qoid number primary key,
  qoption varchar(500),
  qid number references question(qid) 
+);
+
+create table correctQuestion(
+qid number primary key,
+totalAttempt number,
+totalCorrect number
 );
 
 create table sys_user
