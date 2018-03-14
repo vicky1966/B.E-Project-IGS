@@ -1,4 +1,4 @@
-insert into company values (1,'company1','url1','desc1','no1');
+﻿insert into company values (1,'company1','url1','desc1','no1');
 insert into company values (2,'company2','url2','desc2','no2');
 insert into company values (3,'company3','url3','desc3','no3');
 ---------------------------------------------------------------------------------
@@ -23,8 +23,8 @@ insert into subject values(3,'subject3');
 
 ---------------------------------------------------------------------------------
 
-insert into topic values (1,'topic1',8,1);
-insert into topic values (2,'topic2',8,1);
+insert into topic values (1,'data structures',8,1);
+insert into topic values (2,'Java',8,1);
 
 insert into topic values (3,'topic3',6,2);
 insert into topic values (4,'topic4',5,2);
@@ -41,11 +41,579 @@ insert into scaling values (5, 1, 3,8);
 
 ----------------------------------------------------------------------------------
 
-insert into question values (1,'queston1',1, 6, 1);
-insert into question values (2,'queston2',1, 5, 1);
+//Data structures
+
+insert into question values (1,'Which of the following points is/are true about Linked List data structure when it is compared with array',4, 6, 1);
+
+insert into qoption values (1,'A.	Arrays have better cache locality that can make them better in terms of performance',1);
+insert into qoption values (2,'B.	It is easy to insert and delete elements in Linked List',1);
+insert into qoption values (3,'C.	Random access is not allowed in a typical implementation of Linked Lists',1);
+insert into qoption values (4,'D.	All of the above',1);
+																																																																																																																																																																																																																																																																																																																																																																																	
+----------------------------------------------------------------------------------
+insert into question values (2,'The minimum number of arithmetic operations required to evaluate the polynomial P(X) = X5 + 4X3 + 6X + 5 for a given value of X using only one temporary variable.',2, 8, 1);
+
+insert into qoption values (6,'A. 	6',2);
+insert into qoption values (7,'B. 	7',2);
+insert into qoption values (8,'C. 	8',2);
+insert into qoption values (9,'D. 	9',2);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (3,'You have an array of n elements. Suppose you implement quicksort by always choosing the central element of the array as the pivot. Then the tightest upper bound for the worst case performance is',1, 6, 1);
+
+insert into qoption values (506,'A. 	O(n2)',3);
+insert into qoption values (507,'B. 	O(nLogn)',3);
+insert into qoption values (508,'C. 	?(nLogn)',3);
+insert into qoption values (509,'D. 	O(n3)',3);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (4,'When the pointer to the root of a tree is passed as the argument to DoSomething the value returned by the function corresponds to the',4, 8, 1);
+
+insert into qoption values (510,'A. 	number of internal nodes in the tree.',4);
+insert into qoption values (10,'B. 	height of the tree.',4);
+insert into qoption values (11,'C. 	height of the tree.',4);
+insert into qoption values (12,'D. 	number of leaf nodes in the tree.',4);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (5,'Let G be a graph with n vertices and m edges. What is the tightest upper bound on the running time on Depth First Search of G? Assume that the graph is represented using adjacency matrix.',3, 4, 1);
+
+insert into qoption values (13,'A. 	O(n)',5);
+insert into qoption values (14,'B. 	O(m+n)',5);
+insert into qoption values (15,'C. 	O(n2)',5);
+insert into qoption values (16,'D. 	O(mn)',5);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (6,'Let P be a QuickSort Program to sort numbers in ascending order using the first element as pivot. Let t1 and t2 be the number of comparisons made by P for the inputs {1, 2, 3, 4, 5} and {4, 1, 5, 3, 2} respectively. Which one of the following holds?',3, 4, 1);
+
+insert into qoption values (17,'A. 	 t1 = 5',6);
+insert into qoption values (18,'B. 	 t1 < t2',6);
+insert into qoption values (19,'C. 	t1 > t2',6);
+insert into qoption values (20,'D. 	 t1 = t2',6);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (7,'Consider the tree arcs of a BFS traversal from a source node W in an unweighted, connected, undirected graph. The tree T formed by the tree arcs is a data structure for computing.',2, 8, 1);
+
+insert into qoption values (21,'A. 	  the shortest path between every pair of vertices.',7);
+insert into qoption values (22,'B. 	 the shortest path from W to every vertex in the graph.',7);
+insert into qoption values (23,'C. 	 the shortest paths from W to only those nodes that are leaves of T.',7);
+insert into qoption values (24,'D. 	 the longest path in the graph',7);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (8,'Consider the following pseudo code. What is the total number of multiplications to be performed? D = 2
+for i = 1 to n do for j = i to n d for k = j + 1 to n do D = D * 3 ',3, 4, 1);
+
+insert into qoption values (25,'A. 	  Half of the product of the 3 consecutive integers.',8);
+insert into qoption values (26,'B. 	  One-third of the product of the 3 consecutive integers.',8);
+insert into qoption values (27,'C. 	  One-sixth of the product of the 3 consecutive integers.',8);
+insert into qoption values (28,'D. 	  None of the above.',8);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (9,' Consider a hash table with 9 slots. The hash function is h(k) = k mod 9. The collisions are resolved by chaining. The following 9 keys are inserted in the order: 5, 28, 19, 15, 20, 33, 12, 17, 10. The maximum, minimum, and average chain lengths in the hash table, respectively, are',1, 6, 1);
+
+insert into qoption values (29,'A. 	 3, 0, and 1',9);
+insert into qoption values (30,'B. 	 3, 3, and 3',9);
+insert into qoption values (71,'C. 	 4, 0, and 1',9);
+insert into qoption values (72,'D. 	 3, 0, and 2',9);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (10,'A priority queue is implemented as a Max-Heap. Initially, it has 5 elements. The level-order traversal of the heap is: 10, 8, 5, 3, 2. Two new elements 1 and 7 are inserted into the heap in that order. The level-order traversal of the heap after the insertion of the elements is:',1, 4, 1);
+
+insert into qoption values (73,'A. 	 10, 8, 7, 3, 2, 1, 5',10);
+insert into qoption values (74,'B. 	 10, 8, 7, 2, 3, 1, 5',10);
+insert into qoption values (75,'C. 	 10, 8, 7, 1, 2, 3, 5',10);
+insert into qoption values (76,'D. 	 10, 8, 7, 5, 3, 2, 1',10);
+
+--------------------------------------------------------------------------------------------
+
+
+insert into question values (11,'Suppose implementation supports an instruction REVERSE, which reverses the order of elements on the stack, in addition to the PUSH and POP instructions. Which one of the following statements is TRUE with respect to this modified stack?',3, 4, 1);
+
+insert into qoption values (77,'A. 	 A queue cannot be implemented using this stack.',11);
+insert into qoption values (78,'B. 	 A queue can be implemented where ENQUEUE takes a single instruction and DEQUEUE takes a sequence of two instructions.',11);
+insert into qoption values (79,'C. 	 A queue can be implemented where ENQUEUE takes a sequence of three instructions and DEQUEUE takes a single instruction.',11);
+insert into qoption values (80,'D. 	 ?(log n)A queue can be implemented where both ENQUEUE and DEQUEUE take a single instruction each.',11);
+
+--------------------------------------------------------------------------------------------
+
+
+insert into question values (12,'For 8 keys and 6 slots in a hashing table with uniform hashing and chaining, what is the expected number of items that hash to a particular location.',3, 8, 1);
+
+insert into qoption values (81,'A. 	 2.33',12);
+insert into qoption values (82,'B. 	 0..75',12);
+insert into qoption values (83,'C. 	 1.33',12);
+insert into qoption values (84,'D. 	 2',12);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (13,'For m keys and n slots in a hashing table, which of the following is the expected number of empty location.',2, 8, 1);
+
+insert into qoption values (85,'A. 	 n((m-1)/m)^n',13);
+insert into qoption values (86,'B. 	 m((m-1)/m)^n',13);
+insert into qoption values (87,'C. 	 n((n-1)/m)^n',13);
+insert into qoption values (88,'D. 	 n((n-1)/n)^m',13);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (14,'What is the number of binary search trees with 20 nodes with elements 1, 2, 3,…..20 such that the root of tree is 12 and the root of left subtree is 7?',4, 8, 1);
+
+insert into qoption values (89,'A. 	 2634240',14);
+insert into qoption values (90,'B. 	 1243561',14);
+insert into qoption values (91,'C. 	  350016',14);
+insert into qoption values (92,'D. 	 2642640',14);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (15,' For a graph with E edges and V vertices what is the time complexity of Dijkstra algorithm using array as data structure for storing non-finalized vertices. Graph is undirected and represented as adjacency list?',3, 6, 1);
+
+insert into qoption values (93,'A. 	  O(VE)',15);
+insert into qoption values (94,'B. 	  O(ElogV)',15);
+insert into qoption values (95,'C. 	 O(V^2 )',15);
+insert into qoption values (96,'D. 	 O(E^2log V)',15);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (16,'Which of the following Binary Min Heap operation has the highest time complexity?',2, 8, 1);
+
+insert into qoption values (97,'A. 	 Inserting an item under the assumption that the heap has capacity to accommodate one more item',16);
+insert into qoption values (98,'B. 	 Merging with another heap under the assumption that the heap has capacity to accommodate items of other heap',16);
+insert into qoption values (99,'C. 	 Deleting an item from heap',16);
+insert into qoption values (100,'D. 	 Decreasing value of a key',16);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (17,'Which of the following Binary Min Heap operation has the highest time complexity?Which of the following operations are used by Red-Black trees to maintain balance during insertion/deletion? a) Recoloring of nodes b) Rotation (Left and Right)',3, 8, 1);
+
+insert into qoption values (101,'A. 	Only a',17);
+insert into qoption values (102,'B. 	 Only b',17);
+insert into qoption values (103,'C. 	  Both a and b',17);
+insert into qoption values (104,'D. 	  Neither a nor b',17);
+
+--------------------------------------------------------------------------------------------
+insert into question values (18,'Which of the following is a self-adjusting or self-balancing Binary Search Tree',4, 8, 1);
+
+insert into qoption values (105,'A. 	Splay Tree',18);
+insert into qoption values (106,'B. 	 AVL Tree',18);
+insert into qoption values (107,'C. 	 Red Black Tree',18);
+insert into qoption values (108,'D. 	 All of the above',18);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (19,'Is it possible to create a doubly linked list using only one pointer with every node.',2, 4, 1);
+
+insert into qoption values (109,'A. 	Not Possible',19);
+insert into qoption values (110,'B. 	 Yes, possible by storing XOR of addresses of previous and next nodes.',19);
+insert into qoption values (111,'C. 	  Yes, possible by storing XOR of current node and next node',19);
+insert into qoption values (112,'D. 	   Yes, possible by storing XOR of current node and previous node',19);
+
+--------------------------------------------------------------------------------------------
+
+
+insert into question values (20,'You are given pointers to first and last nodes of a singly linked list, which of the following operations are dependent on the length of the linked list?',3, 4, 1);
+
+insert into qoption values (113,'A. 	 Delete the first element',20);
+insert into qoption values (114,'B. 	  Insert a new element as a first element',20);
+insert into qoption values (115,'C. 	   Delete the last element of the list',20);
+insert into qoption values (116,'D. 	  Add a new element at the end of the list',20);
+
+--------------------------------------------------------------------------------------------
+
+
+insert into question values (21,'The preorder traversal sequence of a binary search tree is 30, 20, 10, 15, 25, 23, 39, 35, 42. Which one of the following is the postorder traversal sequence of the same tree? ',4, 6, 1);
+
+insert into qoption values (117,'A. 	 10, 20, 15, 23, 25, 35, 42, 39, 30',21);
+insert into qoption values (118,'B. 	  15, 10, 25, 23, 20, 42, 35, 39, 30',21);
+insert into qoption values (119,'C. 	   15, 20, 10, 23, 25, 42, 35, 39, 30',21);
+insert into qoption values (120,'D. 	  15, 10, 23, 25, 20, 35, 42, 39, 30',21);
+
+--------------------------------------------------------------------------------------------
+
+
+insert into question values (22,' The number of elements that can be sorted in ?(logn) time using heap sort is  ',3, 4, 1);
+
+insert into qoption values (121,'A. 	 ?(1)',22);
+insert into qoption values (122,'B. 	  ?(sqrt(logn))',22);
+insert into qoption values (123,'C. 	   ?(Log n/(Log Log n))',22);
+insert into qoption values (124,'D. 	  ?(Log n)',22);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (23,'  The recurrence relation capturing the optimal time of the Tower of Hanoi problem with n discs is',4, 8, 1);
+
+insert into qoption values (125,'A. 	 T(n) = 2T(n – 2) + 2',23);
+insert into qoption values (126,'B. 	  T(n) = 2T(n – 1) + n',23);
+insert into qoption values (127,'C. 	   T(n) = 2T(n/2) + 1',23);
+insert into qoption values (128,'D. 	  T(n) = 2T(n – 1) + 1',23);
+
+--------------------------------------------------------------------------------------------
+
+insert into question values (24,' Suppose a circular queue of capacity (n – 1) elements is implemented with an array of n elements. Assume that the insertion and deletion operation are carried out using REAR and FRONT as array index variables, respectively. Initially, REAR = FRONT = 0. The conditions to detect queue full and queue empty are ',1, 8, 1);
+
+insert into qoption values (129,'A. 	  Full: (REAR+1) mod n == FRONT, empty: REAR == FRONT',24);
+insert into qoption values (130,'B. 	   Full: (REAR+1) mod n == FRONT, empty: (FRONT+1) mod n == REAR',24);
+insert into qoption values (131,'C. 	  Full: REAR == FRONT, empty: (REAR+1) mod n == FRONT',24);
+insert into qoption values (132,'D. 	  Full: (FRONT+1) mod n == REAR, empty: REAR == FRONT',24);
+
+--------------------------------------------------------------------------------------------
+
+
+
+insert into question values (25,'  Let w(n) and A(n) denote respectively, the worst case and average case running time of an algorithm executed on an input of size n. which of the following is ALWAYS TRUE? ',3, 4, 1);
+
+insert into qoption values (133,'A. 	  A(n) = ?(W(n))',25);
+insert into qoption values (134,'B. 	  ?(sqrt(logn))',25);
+insert into qoption values (135,'C. 	   A(n) = ?(W(n))',25);
+insert into qoption values (136,'D. 	  A(n) = O(W(n))',25);
+
+--------------------------------------------------------------------------------------------
+
+
+
+insert into question values (26,' The worst case running time to search for an element in a balanced in a binary search tree with n2^n elements is',3, 4, 1);
+
+insert into qoption values (137,'A. 	?(n log n)',26);
+insert into qoption values (138,'B. 	   ?(n2n)',26);
+insert into qoption values (139,'C. 	   ?(n)',26);
+insert into qoption values (140,'D. 	 ?(log n) ',26);
+
+--------------------------------------------------------------------------------------------
+
+
+
+insert into question values (27,'  Assuming P != NP, which of the following is true ? ',2, 6, 1);
+
+insert into qoption values (141,'A. 	  NP-complete = NP',27);
+insert into qoption values (142,'B. 	 NP-complete ? P = ?',27);
+insert into qoption values (143,'C. 	   NP-hard = NP',27);
+insert into qoption values (144,'D. 	 P = NP-complete',27);
+
+--------------------------------------------------------------------------------------------
+
+
+
+insert into question values (28,' A list of n string, each of length n, is sorted into lexicographic order using the merge-sort algorithm. The worst case running time of this computation is ',2, 4, 1);
+
+insert into qoption values (145,'A. 	 O(n log n )',28);
+insert into qoption values (146,'B. 	  O(n2 log n)',28);
+insert into qoption values (147,'C. 	   O(n^2 + log n)',28);
+insert into qoption values (148,'D. 	 O(n^2)',28);
+
+--------------------------------------------------------------------------------------------
+
+
+insert into question values (29,'  A program P reads in 500 integers in the range [0..100] representing the scores of 500 students. It then prints the frequency of each score above 50. What would be the best way for P to store the frequencies? ',1, 4, 1);
+
+insert into qoption values (149,'A. 	  An array of 50 numbers',29);
+insert into qoption values (150,'B. 	   An array of 100 numbers',29);
+insert into qoption values (151,'C. 	   An array of 500 numbers',29);
+insert into qoption values (152,'D. 	  A dynamically allocated array of 550 numbers',29);
+
+--------------------------------------------------------------------------------------------
+
+
+insert into question values (30,' An undirected graph G has n nodes. Its adjacency matrix is given by an n × n square matrix whose (i) diagonal elements are 0‘s and (ii) non-diagonal elements are 1‘s. which one of the following is TRUE?',3, 8, 1);
+
+insert into qoption values (153,'A. 	  Graph G has no minimum spanning tree (MST)',30);
+insert into qoption values (154,'B. 	   Graph G has a unique MST of cost n-1',30);
+insert into qoption values (155,'C. 	   Graph G has multiple distinct MSTs, each of cost n-1',30);
+insert into qoption values (156,'D. 	  Graph G has multiple spanning trees of different costs',30);
+
+--------------------------------------------------------------------------------------------
+
+
+
+
+//JAVA Questions
+
+
+
+
+-----------------------------------------------
+insert into question values (31,'Which four options describe the correct default values for array elements of the types indicated? int -> 0 String -> null Dog -> null char -> \u0000 float -> 0.0f boolean -> true',2, 4, 2);
+
+insert into qoption values (704,'A. 	1 2 3 4',31);
+insert into qoption values (702,'B. 	1 3 4 5',31);
+insert into qoption values (703,'C. 	2 4 5 6',31);
+insert into qoption values (706,'D. 	3 4 5 6',31);
+
+--------------------------------------------------------------------
+
+insert into question values (32,'Which will legally declare, construct, and initialize an array?', 4,6 , 2);
+
+insert into qoption values (705,'A. 	int [] myList = {"1"  "2" "3"}',32);
+insert into qoption values (707,'B. 	int [] myList = (5 8 2)',32);
+insert into qoption values (708,'C. 	int myList [] [] = {4 9 7 0}',32);
+insert into qoption values (710,'D. 	int myList [] = {4 3 7}',32);
+
+----------------------------------------------------------------------------
+
+
+insert into question values (33,'Which is a reserved word in the Java programming language? ',1 , 4, 2);
+
+insert into qoption values (709,'A. 	interface',33);
+insert into qoption values (721,'B. 	string',33);
+insert into qoption values (711,'C. 	Float',33);
+insert into qoption values (712,'D. 	unsigned',33);
+
+----------------------------------------------------------------------------
+
+
+insert into question values (34,'Which three are legal array declarations? int [] myScores [] char [] myChars int [6] myScores
+Dog myDogs [] Dog myDogs [7]',1 , 4, 2);
+
+insert into qoption values (713,'A. 	1 2 4',34);
+insert into qoption values (714,'B. 	2 4 5',34);
+insert into qoption values (715,'C. 	2 3 4',34);
+insert into qoption values (716,'D. 	All are correct',34);
+ 
+------------------------------------------------------------------------------------
+
+
+insert into question values (35,'Which one of the following will declare an array and initialize it with five numbers?',2 , 8, 2);
+
+insert into qoption values (717,'A. 	Array a = new Array(5)',35);
+insert into qoption values (718,'B. 	int [] a = {23 22 21 20 19}',35);
+insert into qoption values (719,'C. 	int a [] = new int[5]’,35);
+insert into qoption values (720,'D. 	int [5] array’,35);
+
+
+------------------------------------------------------------------------
+
+insert into question values (36,' Which three are valid declarations of a char? char c1 = 064770 char c2 = face char c3 = 0xbeef char c4 = \u0022 char c5 = \iface    char c6 = \uface',2 , 6, 2);
+
+insert into qoption values (821,'A. 	1 2 4',36);
+insert into qoption values (822,'B. 	1 3 6',36);
+insert into qoption values (823,'C.      3 5  ’,36);
+insert into qoption values (824,'D. 	 5 only ‘ ,36);
+---------------------------------------------------------------------------------
+
+insert into question values (37,' 	Which is the valid declarations within an interface definition?',1, 8, 2);
+
+insert into qoption values (826,'A. 	public double methoda()',37);
+insert into qoption values (825,'B. 	public final double methoda()',37);
+insert into qoption values (827,'C.     static void methoda(double d1)’ ,37);
+insert into qoption values (828,'D. 	 protected void methoda(double d1)’,37);
+-----------------------------------------------------------
+
+insert into question values (38,' 	Which one is a valid declaration of a boolean?',4, 4, 2);
+
+insert into qoption values (829,'A. 	boolean b1 = 0',38);
+insert into qoption values (830,'B. 	boolean b3 = false',38);
+insert into qoption values (831,'C.      boolean b2 = “false”',38);
+insert into qoption values (832,'D. 	boolean b4 = Boolean.false()’,38);
+-------------------------------------------------------------------------
+insert into question values (39,' 	Which three are valid declarations of a float? float f1 = -343 float f2 = 3.14 float f3 = 0x1234 float f4 = 42e7 float f5 = 2001.0D float f6 = 2.81F',3, 4, 2);
+
+insert into qoption values (33,'A. 	1 2 4',39);
+insert into qoption values (34,'B. 	2 3 5',39);
+insert into qoption values (35,'C.      1 3 6',39);
+insert into qoption values (36,'D. 	2 4 6’,39);
+----------------------------------------------------------------
+-------------------------------------------------------------------------
+insert into question values (40,' What is the numerical range of a char?',4, 6, 2);
+
+insert into qoption values (737,'A. 	1 2 4',40);
+insert into qoption values (38,'B. 	-(215) to (215) - 1',40);
+insert into qoption values (39,'C.      0 to 32767',40);
+insert into qoption values (40,'D. 	0 to 65535,40);
+---------------------------------------------------------------------------------------------------------------------------
+insert into question values (41,' Which one of these lists contains only Java programming language keywords?',2, 8, 2);
+
+insert into qoption values (41,'A. 	class, if, void, long, Int, continue',41);
+insert into qoption values (42,'B. 	goto, instanceof, native, finally, default, throws',41);
+insert into qoption values (43,'C.      try, virtual, throw, final, volatile, transient',41);
+insert into qoption values (44,'D. 	strictfp, constant, super, implements, do',41);
+---------------------------------------------------------------------------------------------------------------------------------
+
+insert into question values (42,' Which one is a valid declaration of a boolean?',3, 4, 2);
+
+insert into qoption values (157,'A. 	boolean b1 = 0',42);
+insert into qoption values (158,'B. 	boolean b2 = false',42);
+insert into qoption values (159,'C.      boolean b3 = false',42);
+insert into qoption values (160,'D. 	boolean b4 = Boolean.false()',42);
+---------------------------------------------------------------------------------------------------------------------------------
+
+insert into question values (43,'Which three are valid declarations of a float? 1.float f1 = -343 2.float f2 = 3.14 3.float f3 = 0x12345 4.float f4 = 42e7  5.float f5 = 2001.0D 6.float f6 = 2.81 ',3, 6, 2);
+
+insert into qoption values (161,'A. 	1, 2, 4',43);
+insert into qoption values (162,'B. 	2, 3, 5',43);
+insert into qoption values (163,'C.      1, 3, 6',43);
+insert into qoption values (164,'D. 	2, 4, 6',43);
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+
+insert into question values (44,' Which is a valid declarations of a String?',1, 6, 2);
+
+insert into qoption values (165,'A. 	String s1 = null',44);
+insert into qoption values (166,'B. 	String s2 = ‘\null',44);
+insert into qoption values (167,'C.      String s3 = (String) abc',44);
+insert into qoption values (168,'D. 	String s4 = (String) \ufeed',44);
+---------------------------------------------------------------------------------------------------------------------------------4
+
+insert into question values (45,' What is the numerical range of a char?',2, 4, 2);
+
+insert into qoption values (169,'A. 	-128 to 127',45);
+insert into qoption values (170,'B. 	-(215) to (215) - 1',45);
+insert into qoption values (171,'C.     0 to 32767 abc',45);
+insert into qoption values (172,'D. 	0 to 65535',45);
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+insert into question values (46,' What is the value of "d" after this line of code has been executed? double d = Math.round ( 2.5 + Math.random() )',2, 4, 2);
+
+insert into qoption values (173,'A. 	2',46);
+insert into qoption values (174,'B. 	3',46);
+insert into qoption values (175,'C.     4’,46);
+insert into qoption values (176,'D. 	5',46);
+---------------------------------------------------------------------------------------------------------------------------------
+
+insert into question values (47,' Which of the following would compile without error?',1, 4, 2);
+
+insert into qoption values (177,'A. 	int a = Math.abs(-5)',47);
+insert into qoption values (178,'B. 	int b = Math.abs(5.0)',47);
+insert into qoption values (179,'C.     int c = Math.abs(5.5F)’,47);
+insert into qoption values (180,'D. 	int d = Math.abs(5L)',47);
+---------------------------------------------------------------------------------------------------------------------------------
+
+insert into question values (48,' Which of the following are valid calls to Math.max? 1.Math.max(1,4) 2.Math.max(2.3, 5) 3.Math.max(1, 3, 5, 7)
+ 4.Math.max(-1.5, -2.8f)',1, 4, 2);
+
+insert into qoption values (181,'A. 	1, 2 and 4',48);
+insert into qoption values (182,'B. 	2, 3 and 4',48);
+insert into qoption values (183,'C.     1, 2 and 3’,48);
+insert into qoption values (184,'D. 	3 and 4',48);
+---------------------------------------------------------------------------------------------------------------------------------
+
+insert into question values (49,’Which is true about an anonymous inner class?’,3, 8, 2);
+
+insert into qoption values (185,'A. 	It can extend exactly one class and implement exactly one interface.',49);
+insert into qoption values (186,'B. 	It can extend exactly one class and can implement multiple interfaces.',49);
+insert into qoption values (187,'C.     It can extend exactly one class or implement exactly one interface.’,49);
+insert into qoption values (188,'D. 	It can implement multiple interfaces regardless of whether it also extends a class.',49);
+---------------------------------------------------------------------------------------------------------------------------------
+
+insert into question values (50,' Which statement is true given the following? Double d = Math.random()',2, 6, 2);
+
+insert into qoption values (189,'A. 	0.0 < d <= 1.0',50);
+insert into qoption values (190,'B. 	0.0 <= d < 1.0',50);
+insert into qoption values (191,'C.     Compilation fail’,50);
+insert into qoption values (192,'D. 	Cannot say.',50);
+---------------------------------------------------------------------------------------------------------------------------------
+
+insert into question values (51,' WWhat two statements are true about the result obtained from calling Math.random()? 1.The result is less than 0.0. 2.The result is greater than or equal to 0.0.. 3.The result is less than 1.0 4.The result is greater than 1.0.5.The result is greater than or equal to 1.0.',2, 6, 2);
+
+insert into qoption values (193,'A. 	1 and 2',51);
+insert into qoption values (194,'B. 	2 and 3',51);
+insert into qoption values (195,'C.     3 and 4’,51);
+insert into qoption values (196,'D. 	4 and 5',51);
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+insert into question values (52,'Which of the following will produce an answer that is closest in value to a double, d, while not being greater than d?',4, 6, 2);
+
+insert into qoption values (197,'A. 	(int)Math.min(d)',52);
+insert into qoption values (198,'B. 	(int)Math.max(d)',52);
+insert into qoption values (199,'C.    (int)Math.abs(d)’,52);
+insert into qoption values (200,'D. 	(int)Math.floor(d)',52);
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+insert into question values (53,'What is the name of the method used to start a thread execution?',1, 4, 2);
+
+insert into qoption values (201,'A. 	init()',53);
+insert into qoption values (202,'B. 	start()',53);
+insert into qoption values (203,'C.    run()’,53);
+insert into qoption values (204,'D. 	resume()',53);
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+
+insert into question values (54,'Which two are valid constructors for Thread?1.Thread(Runnable r, String name)2.Thread() 3.Thread(int priority) 4.Thread(Runnable r, ThreadGroup g) 5.Thread(Runnable r, int priority)',3, 4, 2);
+
+insert into qoption values (205,'A. 	1 and 3',54);
+insert into qoption values (206,'B. 	2 and 4',54);
+insert into qoption values (207,'C.     1 and 2’,54);
+insert into qoption values (208,'D. 	2 and 5',54);
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+insert into question values (55,'Which cannot directly cause a thread to stop executing?',3, 6, 2);
+
+insert into qoption values (209,'A. 	Calling the SetPriority() method on a Thread object.',55);
+insert into qoption values (210,'B. 	Calling the wait() method on an object.',55);
+insert into qoption values (211,'C.     Calling notify() method on an object.’,55);
+insert into qoption values (212,'D. 	Calling read() method on an InputStream object.',55);
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+insert into question values (56,'Which of the following will directly stop the execution of a Thread?',1, 4, 2);
+
+insert into qoption values (213,'A. 	wait()	',56);
+insert into qoption values (214,'B. 	notify()',56);
+insert into qoption values (216,'C.     notifyall()’,56);
+insert into qoption values (217,'D. 	exits synchronized code',56);
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+
+insert into question values (57,' Which method must be defined by a class implementing the java.lang.Runnable interface?',2, 4, 2);
+
+insert into qoption values (218,'A. 	void run()',57);
+insert into qoption values (219,'B. 	public void run()',57);
+insert into qoption values (220,'C.     public void start()’,57);
+insert into qoption values (221,'D. 	void run(int priority)',57);
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+
+insert into question values (58,’Which will contain the body of the thread?’,1, 4, 2);
+
+insert into qoption values (222,'A. 	run()',58);
+insert into qoption values (223,'B. 	start()',58);
+insert into qoption values (224,'C.     stop()’,58);
+insert into qoption values (225,'D. 	main()',58);
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+insert into question values (59,'  	
+Which method registers a thread in a thread scheduler?
+',2, 8, 2);
+
+insert into qoption values (226,'A. 	void run()',59);
+insert into qoption values (227,'B. 	construct()',59);
+insert into qoption values (228,'C.     start()’,59);
+insert into qoption values (229,'D.     register()',59);
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+
+insert into question values (60,'  	
+Which class or interface defines the wait(), notify(),and notifyAll() methods?
+',1, 4, 2);
+
+insert into qoption values (230,'A. 	Object',60);
+insert into qoption values (231,'B. 	Thread',60);
+insert into qoption values (232,'C.     Runnable’,60);
+insert into qoption values (233,'D.     Class',60);
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+
 insert into question values (3,'queston3',1, 4, 1);
 insert into question values (4,'queston4',1, 7, 1);
 insert into question values (5,'queston5',1, 8, 1);
+
+
 insert into question values (6,'queston6',1, 9, 1);
 insert into question values (7,'queston7',1, 5, 1);
 insert into question values (8,'queston8',1, 4, 1);
@@ -70,13 +638,7 @@ insert into question values (17,'queston17',1, 4, 5);
 
 ----------------------------------------------------------------------------------
 
-insert into qoption values (1,'a',1);
-insert into qoption values (2,'b',2);
-insert into qoption values (3,'c',3);
-insert into qoption values (4,'d',4);
 
-insert into qoption values (5,'e',5);
-insert into qoption values (6,'f',6);
 insert into qoption values (7,'g',7);
 insert into qoption values (8,'h',8);
 insert into qoption values (9,'i',9);
@@ -115,61 +677,6 @@ delete from scaling;
 delete from topic ;
 delete from question;
 delete from qoption;
-
-
-
-
-<TRIGGER for qid increment>
-
---------------------------------------------------
-
-CREATE SEQUENCE inc_id START WITH 1;
---------------------------------------------------
-
-create or replace trigger q_id_inc
-before insert on question
-for each row
-
-begin
-  select inc_id.nextval
-  into :new.qid
-  from dual;
-end;
-
---------------------------------------
-
-
-<TRIGGER for qoption increment>
-
-
-
-CREATE SEQUENCE op_id START WITH 20;
-
-create or replace trigger op_id_inc
-before insert on qoption
-for each row
-
-begin
-  select op_id.nextval
-  into :new.qoid
-  from dual;
-end;
-
----------------------------------------
----------------------------------------
-
-
-insert into correctQuestion values(1,766,456);
-insert into correctQuestion values(2,45,44);
-insert into correctQuestion values(3,123,98);
-insert into correctQuestion values(4,134,122);
-insert into correctQuestion values(5,25,10);
-insert into correctQuestion values(6,222,111);
-insert into correctQuestion values(7,6565,2343);
-insert into correctQuestion values(8,444,234);
-insert into correctQuestion values(9,111,45);
-insert into correctQuestion values(10,22,16);
-
 
 
 
